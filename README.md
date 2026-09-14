@@ -8,6 +8,10 @@ This academic project was completed collaboratively by a four-member team for CO
 
 The repository includes the complete local prototype. It contains the source data used for the project, the executed analysis notebook, the training pipeline, the serialized model, a Flask API, a browser interface, Postman requests, and held-out API test data. The dependency versions match the environment recorded in the final project artifacts, including the saved model's scikit-learn version.
 
+### Browser interface and prediction result
+
+![KSI browser interface showing a Fatal prediction](docs/browser-interface.png)
+
 ### API health check
 
 ![Flask API health response](docs/api-health.png)
