@@ -1,0 +1,30 @@
+{
+  "info": {
+    "name": "KSI Fatal-Collision API - Notebook Aligned",
+    "description": "Postman tests for the Flask deployment of the notebook-selected 27-feature linear SVM.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [{"key":"base_url","value":"http://127.0.0.1:5000"}],
+  "item": [
+    {"name":"Health check","request":{"method":"GET","url":"{{base_url}}/health"}},
+    {"name":"Get schema","request":{"method":"GET","url":"{{base_url}}/schema"}},
+    {
+      "name":"Predict - single record",
+      "request":{
+        "method":"POST",
+        "header":[{"key":"Content-Type","value":"application/json"}],
+        "url":"{{base_url}}/predict",
+        "body":{"mode":"raw","raw":"{\n  \"features\": {\n    \"LATITUDE\": 43.7,\n    \"LONGITUDE\": -79.4,\n    \"YEAR\": 2023,\n    \"MONTH\": 7,\n    \"DAY_OF_WEEK\": 4,\n    \"HOUR\": 17,\n    \"DISABILITY\": \"No\",\n    \"ALCOHOL\": \"No\",\n    \"TRSN_CITY_VEH\": \"No\",\n    \"TRUCK\": \"No\",\n    \"REDLIGHT\": \"No\",\n    \"MOTORCYCLE\": \"No\",\n    \"SPEEDING\": \"No\",\n    \"CYCLIST\": \"No\",\n    \"PASSENGER\": \"Yes\",\n    \"PEDESTRIAN\": \"No\",\n    \"AG_DRIV\": \"Yes\",\n    \"AUTOMOBILE\": \"Yes\",\n    \"ROAD_CLASS\": \"Major Arterial\",\n    \"DISTRICT\": \"Toronto and East York\",\n    \"TRAFFCTL\": \"Traffic Signal\",\n    \"VISIBILITY\": \"Clear\",\n    \"RDSFCOND\": \"Dry\",\n    \"LIGHT\": \"Daylight\",\n    \"INITDIR\": \"North\",\n    \"ACCLOC\": \"At Intersection\",\n    \"DIVISION\": \"D51\"\n  }\n}"}
+      }
+    },
+    {
+      "name":"Predict - batch",
+      "request":{
+        "method":"POST",
+        "header":[{"key":"Content-Type","value":"application/json"}],
+        "url":"{{base_url}}/predict_batch",
+        "body":{"mode":"raw","raw":"{\n  \"records\": [\n    {\n      \"LATITUDE\":43.7, \"LONGITUDE\":-79.4, \"YEAR\":2023, \"MONTH\":7, \"DAY_OF_WEEK\":4, \"HOUR\":17,\n      \"DISABILITY\":\"No\", \"ALCOHOL\":\"No\", \"TRSN_CITY_VEH\":\"No\", \"TRUCK\":\"No\", \"REDLIGHT\":\"No\", \"MOTORCYCLE\":\"No\", \"SPEEDING\":\"No\", \"CYCLIST\":\"No\", \"PASSENGER\":\"Yes\", \"PEDESTRIAN\":\"No\", \"AG_DRIV\":\"Yes\", \"AUTOMOBILE\":\"Yes\",\n      \"ROAD_CLASS\":\"Major Arterial\", \"DISTRICT\":\"Toronto and East York\", \"TRAFFCTL\":\"Traffic Signal\", \"VISIBILITY\":\"Clear\", \"RDSFCOND\":\"Dry\", \"LIGHT\":\"Daylight\", \"INITDIR\":\"North\", \"ACCLOC\":\"At Intersection\", \"DIVISION\":\"D51\"\n    }\n  ]\n}"}
+      }
+    }
+  ]
+}

@@ -1,0 +1,1374 @@
+LATITUDE,LONGITUDE,YEAR,MONTH,DAY_OF_WEEK,HOUR,DISABILITY,ALCOHOL,TRSN_CITY_VEH,TRUCK,REDLIGHT,MOTORCYCLE,SPEEDING,CYCLIST,PASSENGER,PEDESTRIAN,AG_DRIV,AUTOMOBILE,ROAD_CLASS,DISTRICT,TRAFFCTL,VISIBILITY,RDSFCOND,LIGHT,INITDIR,ACCLOC,DIVISION,TARGET_FATAL
+43.754045,-79.53279,2011,9,4,18,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D31,0
+43.678945,-79.34479,2007,7,3,23,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,West,,D55,0
+43.706245,-79.53239,2007,11,4,18,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Dark,East,At Intersection,D12,0
+43.681796,-79.436557,2016,5,1,6,,,,,,Yes,,,,,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,"Dawn, artificial",South,At Intersection,D13,0
+43.663345,-79.41309,2012,12,2,17,,,,,,,,Yes,,,,Yes,Collector,Toronto and East York,Stop Sign,Clear,Dry,"Dark, artificial",South,At Intersection,D14,0
+43.755245,-79.36049,2006,8,4,23,,,,,,,,,,,Yes,Yes,Major Arterial,North York,No Control,Rain,Wet,Dark,West,,D33,1
+43.737045,-79.59059,2007,12,6,12,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,No Control,Snow,Packed Snow,Daylight,West,,D23,0
+43.676768,-79.505992,2017,9,4,16,,,,,Yes,,,,,,Yes,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D12,0
+43.725145,-79.23239,2013,6,5,19,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,,D43,0
+43.675116,-79.357845,2014,6,0,8,,,,,,Yes,,,,,,,Minor Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,North,,D55,1
+43.612075,-79.515811,2012,11,6,1,,Yes,,,,,,,,,,Yes,Minor Arterial,Etobicoke York,Stop Sign,Clear,Dry,Dark,West,At Intersection,D22,0
+43.658335,-79.434764,2016,4,4,13,,,,Yes,,,,Yes,,,,,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D14,0
+43.671345,-79.39019,2008,5,4,7,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,,D53,1
+43.783312,-79.205303,2014,5,1,21,,,,,,,,,,Yes,,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",South,At/Near Private Drive,D43,0
+43.741445,-79.21819,2008,3,4,18,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,South,,D43,0
+43.652445,-79.42199,2007,12,2,18,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dark,North,,D14,1
+43.677845,-79.39789,2012,10,3,17,,,,Yes,,,,Yes,,,Yes,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,,D53,0
+43.797445,-79.31229,2007,9,6,9,,,,,,,,,,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D42,0
+43.701945,-79.50829,2010,6,3,23,,,,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,West,,D12,0
+43.654945,-79.33739,2007,1,2,13,,,,,,,,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D55,0
+43.768195,-79.388377,2023,12,5,19,,,,,,,,,Yes,,,Yes,Major Arterial,North York,No Control,Rain,Wet,"Dark, artificial",South,Non Intersection,D33,0
+43.671855,-79.290973,2021,5,2,20,,Yes,Yes,,,,Yes,,Yes,,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Intersection Related,D55,0
+43.710002,-79.334369,2023,3,2,17,,,,,,,,,Yes,Yes,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,Intersection Related,D55,0
+43.603245,-79.50629,2013,1,4,13,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Wet,Daylight,East,At Intersection,D22,0
+43.808364,-79.170802,2014,5,4,20,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,South,At Intersection,D42,0
+43.654006,-79.362697,2020,10,6,11,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Stop Sign,Rain,Wet,Daylight,South,At Intersection,D51,0
+43.785045,-79.39209,2008,6,0,14,,,,,,,,,Yes,,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D33,0
+43.726126,-79.318286,2016,1,2,13,,,,,,,,,Yes,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D55,0
+43.646399,-79.403751,2018,9,5,17,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D14,0
+43.688645,-79.44739,2007,11,5,12,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D13,0
+43.776438,-79.231723,2023,10,2,14,,Yes,,,Yes,,Yes,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,Intersection Related,D43,0
+43.691145,-79.32279,2006,12,2,13,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Stop Sign,Rain,Wet,Daylight,West,At Intersection,D55,0
+43.789145,-79.37329,2010,9,0,10,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D33,0
+43.713069,-79.367221,2013,9,0,16,,,,,,Yes,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,West,,D53,0
+43.753345,-79.48849,2006,8,1,9,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,,D31,0
+43.736685,-79.248081,2014,5,4,9,Yes,,,,Yes,,,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,West,Intersection Related,D41,0
+43.664345,-79.38719,2009,10,4,20,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Dark,East,At Intersection,D52,0
+43.734645,-79.60099,2006,10,1,12,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D23,0
+43.656945,-79.40539,2010,1,6,2,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Wet,Dark,East,,D14,0
+43.650939,-79.43996,2011,10,1,8,,,,,,,,Yes,,,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D11,0
+43.658202,-79.371028,2021,5,4,3,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",South,Non Intersection,D51,1
+43.718345,-79.33139,2008,1,0,18,,,,,,,,,,Yes,Yes,Yes,Collector,North York,Traffic Signal,Rain,Wet,Dark,East,,D55,0
+43.711093,-79.514713,2021,10,1,20,,,,,,,,,,,,,Local,North York,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D12,0
+43.677825,-79.350108,2022,4,0,13,,,,,,,Yes,Yes,,Yes,Yes,,Major Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,West,Non Intersection,D55,0
+43.665908,-79.407436,2017,9,2,1,,,,,,Yes,,Yes,,,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D14,0
+43.660745,-79.38289,2012,6,2,22,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",North,,D52,0
+43.68035,-79.279674,2010,10,5,22,,,,,,,,Yes,,,,Yes,Local,Scarborough,No Control,Clear,Dry,Dark,North,Non Intersection,D41,0
+43.637183,-79.436008,2023,10,3,11,,,,,,,,,,Yes,Yes,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,Intersection Related,D14,0
+43.787409,-79.150737,2019,3,1,18,,,,,,,,,,Yes,Yes,Yes,Collector,Scarborough,Stop Sign,Clear,Dry,Daylight,West,At Intersection,D43,0
+43.751245,-79.51619,2011,12,3,13,,,Yes,,,,,,,Yes,,,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,,D31,0
+43.646952,-79.374179,2016,6,1,12,,,,,,,,Yes,,,,Yes,Collector,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D51,0
+43.665245,-79.35349,2008,1,1,19,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Rain,Wet,Dark,West,,D55,0
+43.687945,-79.58679,2008,11,1,14,,,Yes,,,,,,,Yes,Yes,,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D23,0
+43.706576,-79.504787,2018,2,6,12,,,Yes,,,,,,Yes,,,,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Daylight,North,At Intersection,D12,0
+43.671034,-79.383151,2016,7,5,9,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,Intersection Related,D51,0
+43.646245,-79.39819,2012,6,3,7,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D14,1
+43.689456,-79.439487,2020,8,0,11,,,,,,,,Yes,,,,Yes,Minor Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D13,0
+43.649581,-79.422855,2018,6,5,18,,,,,,,,,,Yes,Yes,Yes,Local,North York,Stop Sign,Clear,Dry,Daylight,West,Intersection Related,D14,0
+43.699595,-79.318797,2006,1,6,2,,Yes,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Wet,Dark,North,Intersection Related,D55,0
+43.793245,-79.42739,2008,6,1,15,,,,,,,,,,Yes,,Yes,Collector,North York,No Control,Clear,Dry,Daylight,South,,D32,0
+43.747103,-79.515094,2023,12,0,19,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Snow,Wet,"Dark, artificial",West,Intersection Related,D31,0
+43.664527,-79.481677,2020,10,1,16,,,,,,,,,,,,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,Non Intersection,D11,0
+43.732012,-79.589404,2016,3,2,10,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D23,0
+43.735545,-79.25319,2010,8,3,11,,,Yes,,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D41,0
+43.814545,-79.15699,2011,7,6,20,,,,,,Yes,,,,,,Yes,Collector,Scarborough,No Control,Clear,Dry,Daylight,East,,D42,0
+43.760035,-79.587451,2023,9,4,18,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dark,West,Non Intersection,D23,0
+43.668745,-79.48349,2007,5,3,16,,,Yes,,,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,,D11,0
+43.682345,-79.44479,2008,4,1,6,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D13,0
+43.664443,-79.368091,2012,12,1,7,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,,Other,Other,Dark,,At Intersection,D51,0
+43.680445,-79.48349,2008,6,0,11,,,,,,,,,,,,Yes,Local,Etobicoke York,No Control,Clear,Dry,Daylight,West,,D12,0
+43.647145,-79.40399,2010,2,0,19,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D14,0
+43.64363,-79.389949,2019,11,2,17,,,,,,,,Yes,,,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Wet,"Dark, artificial",South,At/Near Private Drive,D52,0
+43.684445,-79.49879,2006,4,5,22,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D12,0
+43.660742,-79.385814,2022,2,4,11,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Wet,Daylight,North,At Intersection,D52,1
+43.655708,-79.411381,2013,10,2,17,,,,,,Yes,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,Intersection Related,D14,0
+43.745345,-79.29469,2006,1,1,1,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dawn,West,,D41,1
+43.739445,-79.51179,2010,12,2,20,Yes,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dark,West,,D31,0
+43.628951,-79.516956,2023,10,2,9,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D22,0
+43.777968,-79.211902,2014,11,1,8,,,,,,,Yes,,,,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,North,,D43,1
+43.770285,-79.371227,2017,10,4,18,,,,,Yes,,,,Yes,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,Unknown,At Intersection,D33,0
+43.665648,-79.380916,2017,6,0,10,,,,Yes,,,,,,Yes,Yes,,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D51,0
+43.657664,-79.354923,2017,5,6,6,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Daylight, artificial",West,Intersection Related,D51,0
+43.696986,-79.285388,2012,9,5,12,,,,,,Yes,,,,,,,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D41,0
+43.617445,-79.54199,2013,6,1,11,,,,,,,,Yes,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,,D22,0
+43.782305,-79.309589,2021,11,0,22,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",South,At/Near Private Drive,D42,0
+43.75672,-79.438747,2016,9,4,23,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Clear,Dry,"Dark, artificial",North,Non Intersection,D32,0
+43.636545,-79.47509,2006,3,0,18,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,"Dusk, artificial",East,,D11,0
+43.682945,-79.44509,2011,12,6,17,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",North,,D13,0
+43.662245,-79.38739,2009,11,4,10,,,,,,,,Yes,,,Yes,Yes,Collector,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D52,0
+43.667445,-79.399799,2018,6,1,12,,,,Yes,,,,Yes,,,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D52,1
+43.644045,-79.37579,2006,6,2,5,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D52,0
+43.662045,-79.38619,2011,10,0,16,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,,D52,0
+43.67546,-79.49538,2013,8,3,7,,,,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,,D12,0
+43.700144,-79.516193,2007,7,0,11,,,,,,,,Yes,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D12,0
+43.666583,-79.403827,2017,10,6,18,,,,Yes,,,,Yes,Yes,,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D14,0
+43.632376,-79.410892,2022,7,0,21,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D14,0
+43.658946,-79.439693,2013,4,4,22,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Dark,West,At Intersection,D11,0
+43.710645,-79.29679,2008,6,3,8,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,At Intersection,D55,0
+43.677545,-79.35869,2012,1,2,10,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,At Intersection,D55,0
+43.738745,-79.30849,2008,8,2,13,,,,,,Yes,,,,Yes,,,Major Arterial,North York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D33,0
+43.770545,-79.27199,2011,5,0,7,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,North,,D41,0
+43.658866,-79.349849,2014,8,6,8,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D55,0
+43.774945,-79.40429,2006,3,5,3,,,,,,,,,Yes,,Yes,Yes,Minor Arterial,North York,Stop Sign,Clear,Dry,Dark,West,At Intersection,D32,0
+43.659568,-79.37556,2020,1,5,22,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D51,1
+43.692845,-79.27299,2010,8,5,3,,Yes,,,,,,,Yes,,,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D41,0
+43.765731,-79.28104,2017,7,2,16,,,Yes,,,,,,Yes,,,,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D41,0
+43.816844,-79.336467,2016,1,3,11,,,,Yes,,,,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Wet,Daylight,West,At Intersection,D42,1
+43.709796,-79.249019,2021,7,4,21,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Scarborough,,Clear,Dry,"Dark, artificial",Unknown,Non Intersection,D41,1
+43.685595,-79.31274,2023,6,1,19,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",East,Intersection Related,D55,0
+43.787211,-79.470042,2017,11,4,6,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,"Dark, artificial",South,At Intersection,D32,0
+43.739379,-79.513202,2016,4,6,3,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",South,Intersection Related,D31,1
+43.650893,-79.58118,2018,12,6,0,,,,,,,,,,,,Yes,Local,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",South,At Intersection,D22,0
+43.602045,-79.49909,2006,7,1,18,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,,,D22,0
+43.796763,-79.315753,2013,11,6,11,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,,D42,0
+43.720945,-79.50859,2009,9,1,11,,,,Yes,,,,,,Yes,,,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Daylight,East,At Intersection,D31,1
+43.650445,-79.38869,2009,11,0,12,,,,,,,,Yes,,Yes,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D52,0
+43.692584,-79.440807,2017,5,0,13,,,,,,Yes,,,,,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D13,0
+43.812205,-79.225742,2015,4,3,6,,,,,,,,,,Yes,,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D42,0
+43.775668,-79.234958,2017,3,6,13,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Wet,Daylight,West,At Intersection,D43,0
+43.759645,-79.45559,2007,10,3,18,,,,,,,,,Yes,,Yes,Yes,Minor Arterial,North York,No Control,Rain,Wet,Daylight,South,At Intersection,D32,0
+43.748845,-79.25339,2008,10,0,7,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,,D43,0
+43.774545,-79.25219,2007,11,1,18,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Rain,Wet,Dusk,South,,D43,0
+43.682945,-79.42839,2010,11,4,17,,,,,,,,,,Yes,Yes,Yes,Local,Toronto and East York,Stop Sign,Clear,Dry,Dark,West,At Intersection,D13,1
+43.753345,-79.56859,2007,8,6,11,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,,D31,0
+43.754845,-79.51709,2007,11,4,18,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Dark,East,At Intersection,D31,1
+43.790801,-79.453021,2014,4,2,10,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D32,0
+43.630645,-79.42739,2007,2,1,8,,,,,,,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Loose Snow,Daylight,East,,D14,0
+43.795069,-79.412708,2018,6,1,17,,,,,,,,,,,Yes,Yes,Minor Arterial,North York,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D32,0
+43.701152,-79.520068,2018,7,3,8,,,,,,,,,,Yes,,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,Non Intersection,D12,0
+43.67525,-79.424037,2019,7,2,7,,,,,,,,Yes,,,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,"Daylight, artificial",West,At Intersection,D13,0
+43.797945,-79.42009,2012,2,3,19,,,,,,,Yes,,Yes,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Wet,Dark,Unknown,At Intersection,D32,0
+43.762446,-79.518886,2013,4,4,20,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Rain,Wet,"Dark, artificial",North,,D31,1
+43.644942,-79.397632,2015,12,6,0,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Pedestrian Crossover,Clear,Dry,"Dark, artificial",East,Non Intersection,D14,0
+43.671745,-79.42089,2008,8,4,19,,,,,,,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,West,,D14,0
+43.749045,-79.221446,2022,6,0,0,,,Yes,,,,,,,Yes,,,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D43,1
+43.767445,-79.27329,2009,11,3,6,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Scarborough,No Control,Rain,Wet,Dark,East,,D41,0
+43.744945,-79.58289,2010,1,4,6,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Wet,Dusk,North,,D23,0
+43.700245,-79.53629,2006,12,6,8,Yes,,,,,,,,,,,Yes,Local,Etobicoke York,No Control,Clear,Dry,Daylight,West,,D23,0
+43.68706,-79.438655,2021,7,0,4,,,,,,,,,Yes,,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",South,At Intersection,D13,0
+43.711445,-79.35849,2006,9,0,12,,,,Yes,,,,,,Yes,Yes,,Minor Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D53,0
+43.722533,-79.242137,2020,7,4,17,,,,,,Yes,,,,,Yes,Yes,Minor Arterial,Scarborough,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D43,0
+43.655104,-79.379085,2020,9,0,12,,,,,,,,,,Yes,,Yes,Collector,Toronto and East York,No Control,Clear,Dry,Daylight,South,Non Intersection,D51,0
+43.68389,-79.511417,2020,6,5,16,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D22,0
+43.709563,-79.496211,2023,7,2,9,,,,,,,,Yes,,,Yes,,Local,North York,Stop Sign,Clear,Dry,Daylight,North,Intersection Related,D12,0
+43.725745,-79.55579,2007,7,2,18,,,,,,,,,Yes,,Yes,Yes,Local,Etobicoke York,No Control,Clear,Dry,Daylight,West,,D23,0
+43.651618,-79.378948,2021,12,6,14,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,Unknown,At Intersection,D51,1
+43.760932,-79.413089,2023,6,4,14,,,,,Yes,,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Daylight,South,At Intersection,D32,0
+43.741782,-79.225154,2016,1,6,21,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D43,0
+43.712084,-79.372058,2016,10,3,19,,,,,,,,,Yes,Yes,Yes,Yes,Major Arterial,North York,No Control,Rain,Wet,Dark,Unknown,Non Intersection,D53,1
+43.698371,-79.463481,2017,1,4,5,,,,,Yes,,,,,,Yes,Yes,Minor Arterial,North York,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D13,0
+43.687876,-79.58678,2017,7,3,8,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D23,0
+43.735345,-79.56139,2007,3,5,9,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Daylight,East,At Intersection,D23,0
+43.804114,-79.330722,2014,7,1,10,,,,,Yes,,,,Yes,,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D42,1
+43.683306,-79.283298,2019,10,4,11,,,,,,,,,,Yes,,Yes,Local,Toronto and East York,No Control,Clear,Dry,Daylight,East,At/Near Private Drive,D41,0
+43.803245,-79.37019,2012,10,4,15,,,,,,,,,,Yes,,Yes,Local,North York,No Control,Clear,Dry,Daylight,South,,D33,0
+43.708445,-79.39019,2010,1,0,6,,,Yes,,,,,,,Yes,Yes,,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,South,At Intersection,D53,1
+43.689345,-79.29679,2010,1,5,10,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D55,0
+43.825545,-79.27529,2010,1,6,12,,,,,,,,,Yes,,,Yes,Major Arterial,Scarborough,No Control,Snow,Loose Snow,Daylight,North,,D42,0
+43.641445,-79.38089,2012,12,1,5,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D52,0
+43.659545,-79.34669,2013,5,4,13,,,,Yes,,,,,,,Yes,Yes,Minor Arterial,Toronto and East York,Pedestrian Crossover,Rain,Wet,Daylight,East,,D55,0
+43.635459,-79.473483,2014,4,3,20,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Underpass or Tunnel,D11,0
+43.776445,-79.17369,2012,12,1,21,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Dark,West,At Intersection,D43,1
+43.683879,-79.300121,2017,8,2,10,,,,,,,,Yes,,,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D55,0
+43.791163,-79.418346,2014,8,2,17,,,,,,,,,,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,Non Intersection,D32,0
+43.670745,-79.45329,2010,1,0,18,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Wet,Dark,North,At Intersection,D11,1
+43.804576,-79.35551,2019,7,1,14,,,,Yes,,,,,,Yes,Yes,,Local,North York,No Control,Clear,Dry,Daylight,East,At Intersection,D33,1
+43.725545,-79.56009,2006,2,3,6,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Snow,Slush,Daylight,North,,D23,0
+43.753699,-79.544574,2017,6,6,6,,,,,,,Yes,,,,Yes,Yes,Collector,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",East,At/Near Private Drive,D31,0
+43.690745,-79.58729,2006,8,3,21,,Yes,,,,,Yes,,,,Yes,Yes,Collector,Etobicoke York,No Control,Clear,Dry,Daylight,South,At Intersection,D23,0
+43.655387,-79.379863,2014,9,2,6,,,,Yes,,,,,,Yes,,,Laneway,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",South,,D51,1
+43.680693,-79.348178,2020,1,4,17,,,,,,,,,,Yes,Yes,Yes,Collector,Toronto and East York,Stop Sign,Rain,Wet,"Dark, artificial",West,At Intersection,D55,0
+43.641043,-79.434192,2013,8,4,13,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D14,0
+43.718745,-79.51839,2008,6,1,22,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D31,1
+43.651099,-79.38129,2019,3,2,16,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D52,0
+43.686345,-79.438389,2011,11,2,6,,,,,,Yes,,,,,Yes,Yes,Minor Arterial,Toronto and East York,Stop Sign,Clear,Dry,Dark,North,At Intersection,D13,0
+43.69015,-79.475055,2015,2,0,14,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,Non Intersection,D12,0
+43.809722,-79.290012,2014,8,1,21,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",North,At Intersection,D42,0
+43.653346,-79.341487,2008,6,1,18,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D55,0
+43.673545,-79.46299,2012,11,5,2,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",West,,D11,0
+43.593527,-79.537532,2015,10,6,1,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D22,0
+43.721345,-79.54559,2009,10,1,12,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Daylight, artificial",South,At Intersection,D23,0
+43.647945,-79.48659,2008,9,1,11,,,,,,,,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,West,,D11,0
+43.797892,-79.147685,2019,10,2,14,,,,,,,,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,South,At/Near Private Drive,D42,0
+43.658445,-79.37029,2007,10,2,9,,,,Yes,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D51,0
+43.593325,-79.538135,2017,10,5,13,,,,,,Yes,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D22,0
+43.691945,-79.46539,2012,8,2,7,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D12,0
+43.788844,-79.240093,2013,9,3,18,,,,Yes,,,,,,Yes,Yes,,Minor Arterial,Scarborough,Pedestrian Crossover,Clear,Dry,Daylight,South,,D42,1
+43.726615,-79.431415,2015,11,0,17,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,"Dark, artificial",South,Intersection Related,D32,1
+43.773787,-79.442966,2016,3,5,15,,,,,,,,,,Yes,,,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,Unknown,At Intersection,D32,0
+43.775088,-79.331226,2014,1,6,13,,,,,,,,,Yes,,,Yes,Major Arterial,North York,Traffic Signal,Snow,Loose Snow,Daylight,East,,D33,1
+43.652507,-79.397853,2013,10,2,7,,,,Yes,,,,Yes,,,,,Major Arterial,Toronto and East York,No Control,Clear,Wet,Daylight,North,,D52,1
+43.696303,-79.2579,2020,7,4,15,,,,,,Yes,,,,Yes,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,Intersection Related,D41,0
+43.727519,-79.241809,2019,4,1,16,,,,,,,,,,Yes,,Yes,Collector,Scarborough,No Control,Clear,Dry,Daylight,East,Non Intersection,D43,0
+43.711745,-79.411693,2012,9,4,13,,,,,,,,Yes,,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,North,,D53,0
+43.727336,-79.26588,2016,7,0,23,,,,,,,,Yes,,,,,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D41,0
+43.639941,-79.439853,2013,3,3,0,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Snow,Loose Snow,Dark,West,,D14,0
+43.662644,-79.332789,2012,4,0,10,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D55,0
+43.700087,-79.516155,2021,9,5,13,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D12,1
+43.639735,-79.380924,2017,4,6,16,,,Yes,,,,,,,Yes,,,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D52,0
+43.718318,-79.516246,2016,6,2,23,,,,,,,,,Yes,Yes,,Yes,Collector,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",South,Non Intersection,D31,0
+43.774545,-79.25219,2008,11,4,9,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Wet,Daylight,South,At Intersection,D43,0
+43.732245,-79.34209,2012,10,0,10,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,,D33,0
+43.687545,-79.35289,2012,5,4,12,,,,,,,,,,Yes,,Yes,Local,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D55,0
+43.623576,-79.49818,2021,12,1,19,,Yes,,,,,,,,,,Yes,Expressway,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D22,0
+43.753657,-79.308833,2014,10,5,17,,,,,,Yes,,,Yes,,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,North,Non Intersection,D41,0
+43.732192,-79.267925,2015,4,4,3,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Rain,Wet,"Dark, artificial",West,At Intersection,D41,0
+43.742633,-79.307399,2015,10,6,15,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,Intersection Related,D41,0
+43.702731,-79.446719,2021,7,0,19,,,,,,,,,,Yes,Yes,Yes,Local,North York,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D13,0
+43.739045,-79.51449,2010,2,3,15,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,At Intersection,D31,0
+43.708645,-79.47809,2007,7,1,17,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D12,0
+43.636943,-79.445483,2017,4,4,5,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Wet,"Dark, artificial",East,Non Intersection,D14,0
+43.717448,-79.299609,2013,10,3,17,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D41,0
+43.664973,-79.426914,2016,1,5,17,,,Yes,,,,,,Yes,,,,Minor Arterial,Toronto and East York,No Control,Clear,Wet,"Dark, artificial",South,Non Intersection,D14,0
+43.640933,-79.380649,2021,8,3,3,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",Unknown,At Intersection,D52,1
+43.822402,-79.312221,2023,10,3,6,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D42,1
+43.642485,-79.575847,2017,9,1,15,,,,,Yes,Yes,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D22,0
+43.766845,-79.37599,2013,2,1,7,,,,,,,,,,Yes,,Yes,Local,North York,No Control,Clear,Dry,Dark,South,,D33,0
+43.751045,-79.26719,2008,1,6,10,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Stop Sign,Clear,Wet,Daylight,North,At Intersection,D41,0
+43.698706,-79.406116,2018,9,0,15,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D53,0
+43.687525,-79.396793,2014,9,3,20,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,,D53,1
+43.752844,-79.457706,2017,4,0,21,,,,,,,,,,Yes,,Yes,Collector,North York,No Control,Clear,Dry,"Dark, artificial",North,Intersection Related,D32,0
+43.593345,-79.53819,2008,8,3,14,,,,Yes,,,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D22,0
+43.698245,-79.43839,2012,5,5,17,,,,,,,,,Yes,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,,D13,0
+43.725145,-79.23239,2011,1,0,7,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D43,0
+43.649501,-79.428958,2017,8,4,11,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dark,North,Non Intersection,D14,1
+43.619052,-79.499576,2015,11,0,20,,,,,,,Yes,,,Yes,Yes,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",South,Non Intersection,D22,0
+43.677485,-79.351924,2019,5,4,22,Yes,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Intersection Related,D55,0
+43.758597,-79.335994,2022,7,5,22,,,,,,Yes,Yes,,Yes,,Yes,Yes,Expressway,North York,No Control,Clear,Dry,"Dark, artificial",South,Non Intersection,D33,0
+43.708145,-79.26859,2007,1,0,14,,,,Yes,,,,,,Yes,,,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,North,,D41,0
+43.614146,-79.55611,2019,6,1,12,,,,,,Yes,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D22,1
+43.614245,-79.55619,2006,4,3,20,,,,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D22,0
+43.674388,-79.42258,2018,9,2,9,,,,,,,,Yes,,,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,At Intersection,D13,0
+43.681745,-79.42569,2007,11,3,20,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Dark,West,,D13,0
+43.665645,-79.40869,2013,5,0,18,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D14,0
+43.761225,-79.279422,2019,11,5,12,,,,,,Yes,,,Yes,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,South,At Intersection,D41,0
+43.721591,-79.41846,2017,6,2,17,,,,,,,,,Yes,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,At Intersection,D53,0
+43.692103,-79.401248,2023,5,0,12,,,,,,,,,,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,North,Non Intersection,D53,0
+43.721345,-79.54559,2006,7,2,21,,,,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Dark,West,At Intersection,D23,0
+43.691519,-79.570796,2018,8,5,11,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D23,0
+43.628859,-79.503635,2013,6,5,8,,,,,,,,,,Yes,,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,,D22,0
+43.711345,-79.59299,2011,7,5,22,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Rain,Wet,"Dark, artificial",South,At Intersection,D23,0
+43.793151,-79.352275,2016,3,1,9,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,Intersection Related,D33,1
+43.683776,-79.564822,2020,8,5,18,,,,,,Yes,,,,,Yes,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,Intersection Related,D23,0
+43.751399,-79.457629,2022,9,4,17,,,Yes,,,,,Yes,,,,,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,Non Intersection,D32,0
+43.797945,-79.42009,2009,8,0,13,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D32,0
+43.628398,-79.475986,2019,12,2,15,Yes,,,,,,,,,,Yes,Yes,Collector,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D22,0
+43.695545,-79.48669,2012,8,0,19,,,,,,Yes,,,,,,,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,,D12,0
+43.779245,-79.50419,2012,6,5,10,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Rain,Wet,Daylight,West,At Intersection,D31,0
+43.675994,-79.45193,2014,8,3,22,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",West,,D13,1
+43.683478,-79.322536,2019,6,4,19,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Daylight, artificial",East,Non Intersection,D55,0
+43.633269,-79.43452,2019,4,4,21,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,"Dark, artificial",West,At Intersection,D14,0
+43.710545,-79.30899,2011,9,3,16,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D55,0
+43.702145,-79.33599,2007,9,6,20,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Dark,North,At Intersection,D55,0
+43.662436,-79.423229,2014,12,6,14,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,Intersection Related,D14,0
+43.665745,-79.39339,2007,9,2,5,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Dark,South,,D52,0
+43.815356,-79.231464,2018,8,5,14,,,,,,Yes,,,,,,,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D42,0
+43.790245,-79.35419,2008,2,5,9,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D33,0
+43.731764,-79.591045,2014,6,3,20,,,,,,,,,Yes,,,Yes,Collector,Etobicoke York,No Control,Clear,Dry,"Dusk, artificial",West,At Intersection,D23,0
+43.662398,-79.38634,2017,2,4,14,,,,,,,,,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D52,0
+43.789145,-79.37329,2007,12,0,21,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,West,,D33,1
+43.804445,-79.22419,2011,2,6,9,,,,,,,,,,Yes,,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,,D42,0
+43.606045,-79.54709,2008,10,4,11,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D22,0
+43.650845,-79.38659,2012,7,6,10,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D52,0
+43.803198,-79.39619,2018,11,4,20,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Snow,Wet,"Dark, artificial",South,At Intersection,D33,0
+43.647845,-79.39029,2008,11,5,22,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D52,0
+43.686591,-79.597255,2022,12,3,19,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Snow,Loose Snow,Dark,West,Non Intersection,D23,0
+43.744704,-79.486408,2019,12,4,20,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D31,0
+43.753928,-79.265865,2016,10,3,8,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Scarborough,Stop Sign,Rain,Wet,Daylight,South,Intersection Related,D41,0
+43.752017,-79.542331,2017,1,2,14,Yes,,,Yes,Yes,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Wet,Daylight,North,At Intersection,D31,1
+43.684345,-79.31919,2008,8,3,1,,Yes,,,,Yes,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Dark,West,,D55,0
+43.782744,-79.40189,2012,11,4,17,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Clear,Dry,"Dark, artificial",East,,D32,0
+43.693637,-79.449458,2017,6,4,15,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,Non Intersection,D13,0
+43.637885,-79.457416,2017,6,6,19,,,,Yes,,Yes,,,,,Yes,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D11,0
+43.734736,-79.256801,2017,4,2,20,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",West,At Intersection,D41,0
+43.637671,-79.433238,2018,10,4,18,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D14,0
+43.781508,-79.494464,2017,11,2,20,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",South,At Intersection,D31,0
+43.674311,-79.430805,2016,1,5,15,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,Non Intersection,D13,0
+43.782545,-79.49009,2007,10,0,10,,,,,Yes,,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D31,0
+43.795134,-79.341258,2015,7,5,13,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D33,0
+43.816859,-79.304042,2018,11,3,17,,,,,,,,Yes,Yes,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Dusk,South,At/Near Private Drive,D42,0
+43.632745,-79.43379,2007,8,3,22,,,,,,Yes,,,,,,,,Toronto and East York,No Control,Clear,Dry,Dark,West,,D14,1
+43.771231,-79.285022,2019,12,5,18,,,,,,,,,,Yes,,,Collector,Scarborough,No Control,Rain,Wet,"Dark, artificial",North,Non Intersection,D41,0
+43.725066,-79.232402,2019,10,1,15,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D43,0
+43.688468,-79.565227,2019,6,1,14,,,,,,,,,,,,Yes,Local,Etobicoke York,Stop Sign,Clear,Dry,Daylight,West,At Intersection,D23,0
+43.664225,-79.367954,2018,2,5,4,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D51,0
+43.819245,-79.21619,2010,8,1,14,,,,,,,,,,Yes,,Yes,Pending,Scarborough,No Control,Clear,Dry,Daylight,South,,D42,0
+43.793505,-79.24007,2017,6,1,16,,,,,,,,,Yes,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,Non Intersection,D42,1
+43.77283,-79.451167,2023,6,1,2,,,,,,Yes,Yes,,,,Yes,Yes,Collector,North York,Traffic Signal,Clear,Dry,"Dusk, artificial",West,Non Intersection,D32,0
+43.69826,-79.32706,2016,3,6,3,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,At Intersection,D55,0
+43.741103,-79.319248,2015,10,4,0,,,,,,,Yes,,Yes,Yes,Yes,Yes,Major Arterial,North York,No Control,Rain,Wet,"Dark, artificial",West,At/Near Private Drive,D33,0
+43.793045,-79.41189,2009,10,1,9,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,North York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D32,0
+43.610145,-79.49589,2013,3,6,9,,,Yes,,,,,,Yes,,,Yes,Minor Arterial,Etobicoke York,Stop Sign,Clear,Dry,Daylight,South,,D22,0
+43.655745,-79.38379,2008,6,2,5,,,Yes,,,,,,Yes,,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D52,0
+43.685345,-79.40789,2008,6,3,9,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Police Control,Clear,Dry,Daylight,West,At Intersection,D53,0
+43.661589,-79.462917,2015,9,4,19,,,,,,,,,Yes,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D11,0
+43.700225,-79.396999,2020,4,3,13,Yes,,,,,Yes,,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,Intersection Related,D53,0
+43.662947,-79.383746,2021,3,3,7,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Wet,Daylight,North,Intersection Related,D51,0
+43.638579,-79.44688,2013,11,4,18,,,,,,,,,Yes,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D11,0
+43.700545,-79.33709,2007,11,6,7,,,,,,,,,,,,Yes,,Toronto and East York,No Control,Clear,Dry,Daylight,South,,D55,0
+43.793559,-79.350398,2015,3,2,18,,,,,,,,,Yes,Yes,,Yes,Major Arterial,North York,Traffic Signal,Snow,Wet,"Dark, artificial",West,At Intersection,D33,0
+43.770259,-79.520694,2020,2,1,18,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Clear,Wet,"Dark, artificial",North,Non Intersection,D31,0
+43.745045,-79.39829,2006,11,6,3,,,,,,,,,Yes,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Dark,East,,D32,0
+43.601645,-79.54519,2009,3,6,0,,Yes,Yes,,,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Dark,South,,D22,0
+43.737357,-79.31544,2022,4,5,23,,,,,,Yes,,,,,,,Local,North York,Stop Sign,Clear,Dry,"Dark, artificial",South,At Intersection,D33,0
+43.752045,-79.54239,2007,1,3,9,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D31,0
+43.782745,-79.34909,2008,1,3,14,,,,,,,,,Yes,,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D33,1
+43.709245,-79.50559,2009,1,5,3,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Controller,Clear,Wet,Dark,South,,D12,0
+43.715853,-79.444942,2018,11,1,18,,,Yes,,,,,,,Yes,,,Major Arterial,North York,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D13,1
+43.645625,-79.562526,2022,2,5,8,,,,,,,,Yes,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,Overpass or Bridge,D22,0
+43.635951,-79.442912,2013,6,6,10,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,North,Non Intersection,D14,0
+43.636745,-79.47529,2009,8,0,18,,,,,,Yes,,,,,Yes,Yes,Minor Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,North,At Intersection,D11,0
+43.669337,-79.591533,2018,7,3,22,,,,Yes,,,Yes,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D23,0
+43.598124,-79.51691,2014,5,4,22,,Yes,,,,Yes,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D22,0
+43.769351,-79.282222,2019,10,1,7,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,"Fog, Mist, Smoke, Dust",Dry,"Dark, artificial",West,At Intersection,D41,0
+43.681243,-79.455852,2018,6,0,15,,,,,,,,,,Yes,,Yes,Local,Etobicoke York,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D13,0
+43.771941,-79.261875,2022,7,4,12,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,Intersection Related,D43,0
+43.648645,-79.35259,2009,8,6,21,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Dark,East,,D51,0
+43.642237,-79.56599,2013,9,0,21,,,,,,,,Yes,,,Yes,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,West,,D22,0
+43.746237,-79.568614,2014,8,6,0,,,Yes,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",North,Intersection Related,D23,0
+43.759545,-79.31809,2007,8,4,18,,,,,,,,Yes,,,,Yes,Local,North York,Stop Sign,Clear,Dry,Daylight,West,,D33,0
+43.836528,-79.251148,2022,6,5,19,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D42,0
+43.676145,-79.35889,2010,12,1,16,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D55,0
+43.642031,-79.41196,2010,5,4,6,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D14,0
+43.671954,-79.370693,2014,8,4,1,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D51,0
+43.640822,-79.539516,2022,8,2,14,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Etobicoke York,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D22,1
+43.785308,-79.256435,2020,3,3,12,,,,Yes,,,,,Yes,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D42,0
+43.654945,-79.39879,2010,4,0,7,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Dawn,West,At Intersection,D52,0
+43.813645,-79.27009,2011,5,4,17,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,South,,D42,0
+43.730368,-79.432338,2015,10,5,18,,,,,,,,,Yes,Yes,Yes,Yes,Major Arterial,North York,Stop Sign,Clear,Dry,"Dusk, artificial",West,Intersection Related,D32,0
+43.755641,-79.61288,2017,9,4,6,,,,Yes,,,Yes,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,Non Intersection,D23,1
+43.792666,-79.155994,2015,7,6,13,,,,,,Yes,Yes,,Yes,,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,Non Intersection,D43,1
+43.756345,-79.59959,2010,6,4,17,,,,,,,,,,Yes,,,Local,Etobicoke York,No Control,Clear,Dry,Daylight,Unknown,,D23,0
+43.748763,-79.312076,2023,7,2,20,,,,,,Yes,Yes,,,,Yes,,Major Arterial,North York,Stop Sign,Clear,Dry,Daylight,South,Intersection Related,D41,1
+43.733817,-79.433131,2022,3,0,9,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Daylight,West,At Intersection,D32,0
+43.602622,-79.540775,2020,8,4,7,,,,,,Yes,,,,,Yes,Yes,Minor Arterial,Etobicoke York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D22,0
+43.797945,-79.42009,2011,6,6,12,,,,,Yes,,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D32,0
+43.785746,-79.289493,2013,6,6,15,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D42,0
+43.680145,-79.44399,2012,4,0,15,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Daylight,East,At Intersection,D13,0
+43.634032,-79.438045,2013,9,0,8,,,,,,,,,Yes,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D14,1
+43.654486,-79.363986,2021,6,5,8,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D51,0
+43.679745,-79.39859,2012,7,2,16,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,At Intersection,D53,0
+43.797373,-79.422603,2018,7,0,17,,,,,,,,,Yes,Yes,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,Non Intersection,D32,0
+43.813903,-79.2196,2015,4,4,18,,,,,,,Yes,,Yes,,Yes,Yes,Collector,Scarborough,No Control,Clear,Dry,Daylight,North,Non Intersection,D42,0
+43.658274,-79.434741,2022,5,6,14,,,,,,,,,Yes,Yes,Yes,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D14,0
+43.749745,-79.37879,2009,2,3,9,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D33,0
+43.721705,-79.456401,2016,11,1,22,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D32,0
+43.790545,-79.21259,2012,7,0,16,,,,,,,,,,,,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,South,,D43,1
+43.766345,-79.41539,2011,6,4,18,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,North York,Stop Sign,Clear,Dry,Daylight,West,At Intersection,D32,0
+43.705245,-79.49289,2006,12,6,17,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Rain,Wet,Dark,East,,D12,0
+43.631472,-79.531055,2015,11,3,5,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,"Dark, artificial",South,At Intersection,D22,0
+43.685045,-79.43789,2009,10,1,18,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dusk,South,,D13,0
+43.653033,-79.39722,2021,10,6,6,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Rain,Wet,"Dark, artificial",West,Non Intersection,D52,0
+43.749745,-79.61049,2007,3,2,15,,,Yes,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D23,0
+43.654945,-79.33739,2009,1,0,0,,,,,,,,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D55,0
+43.759272,-79.507922,2015,6,3,0,,Yes,,,,,Yes,Yes,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D31,1
+43.755345,-79.45989,2013,7,3,19,,,,,,,,,,Yes,Yes,Yes,Collector,North York,Traffic Signal,Clear,Dry,Dusk,North,At Intersection,D32,0
+43.601916,-79.499606,2023,1,2,17,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Rain,Wet,Dark,West,At Intersection,D22,1
+43.673464,-79.463008,2019,6,1,23,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D11,0
+43.797198,-79.294345,2016,2,0,3,,,,,,,,,,,,Yes,Major Arterial,Scarborough,No Control,Clear,Wet,"Dark, artificial",North,Non Intersection,D42,0
+43.764334,-79.574855,2013,8,3,19,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dusk,North,At Intersection,D31,0
+43.650012,-79.386249,2016,5,5,20,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D52,0
+43.646045,-79.38559,2011,8,2,18,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D52,0
+43.706294,-79.487628,2015,3,3,15,,,Yes,,,,,,Yes,,,,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,Non Intersection,D12,0
+43.658251,-79.385585,2019,7,1,0,,Yes,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Rain,Wet,"Dark, artificial",East,Intersection Related,D52,0
+43.736033,-79.258769,2014,11,3,12,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,Unknown,At Intersection,D41,1
+43.769845,-79.17989,2009,8,1,18,,,,,,Yes,,,,,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,,D43,0
+43.673945,-79.39629,2011,9,5,13,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,,D53,0
+43.691374,-79.320621,2015,1,4,14,,,,,,,,,Yes,,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D55,0
+43.730227,-79.226428,2020,11,5,9,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,At Intersection,D43,0
+43.654326,-79.422664,2017,12,2,11,,,,Yes,,,,Yes,,,,,Major Arterial,Toronto and East York,Traffic Signal,Other,Other,Daylight,West,At Intersection,D14,1
+43.646311,-79.384059,2022,7,4,23,,Yes,,,Yes,,,,Yes,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Wet,"Dark, artificial",Unknown,At Intersection,D52,1
+43.67525,-79.320316,2021,9,2,11,,,Yes,,,,,,Yes,,,,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D55,1
+43.741526,-79.591602,2021,7,4,16,,,,,,,,,,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,North,Non Intersection,D23,0
+43.66421,-79.531993,2019,8,3,8,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Etobicoke York,Stop Sign,Clear,Dry,Daylight,West,At Intersection,D22,0
+43.784564,-79.392055,2021,5,0,23,,,Yes,,,,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,"Dark, artificial",South,Non Intersection,D33,0
+43.782126,-79.232982,2019,12,6,18,,Yes,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Wet,"Dark, artificial",Unknown,Non Intersection,D43,1
+43.651934,-79.570628,2017,6,3,18,,,Yes,,,,,,Yes,,Yes,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,Non Intersection,D22,0
+43.680205,-79.43246,2023,12,3,12,,,,Yes,,,,,,Yes,Yes,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,Intersection Related,D13,1
+43.655945,-79.37979,2007,4,1,18,,,,,,Yes,,,,,,,Collector,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D51,0
+43.668162,-79.369548,2013,8,2,6,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dawn,South,At Intersection,D51,0
+43.649821,-79.380771,2017,2,3,10,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Daylight, artificial",East,At Intersection,D52,1
+43.708245,-79.39089,2012,2,6,15,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Wet,Daylight,East,,D53,0
+43.713267,-79.458583,2015,4,2,14,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Daylight,South,At Intersection,D13,0
+43.650492,-79.479076,2014,3,3,17,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D11,0
+43.697882,-79.347766,2020,12,3,21,,,,,,,Yes,,Yes,,Yes,Yes,,,No Control,Clear,Dry,Dark,South,Non Intersection,D55,0
+43.806345,-79.32099,2008,11,4,10,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D42,0
+43.645594,-79.518939,2019,12,4,16,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dusk, artificial",South,At Intersection,D22,0
+43.785945,-79.44589,2011,6,5,13,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,,D32,1
+43.668429,-79.438876,2021,11,6,16,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,Intersection Related,D14,0
+43.628945,-79.55489,2012,3,3,13,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D22,0
+43.643445,-79.39129,2010,10,0,16,,,,,,,,,,,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Daylight,East,At Intersection,D52,0
+43.711943,-79.270191,2013,2,5,10,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Scarborough,No Control,Snow,Wet,Daylight,East,,D41,1
+43.641997,-79.379878,2017,10,6,12,,,,,,Yes,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D52,0
+43.652541,-79.39986,2014,4,2,17,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Daylight, artificial",West,,D14,1
+43.622859,-79.481197,2016,7,6,22,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D22,0
+43.767928,-79.401332,2014,6,6,21,,,,,,,,,,Yes,,Yes,Minor Arterial,North York,No Control,Clear,Dry,"Dusk, artificial",North,At Intersection,D32,0
+43.788445,-79.46399,2008,7,4,21,,,,Yes,,,Yes,,Yes,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Dark,West,,D32,1
+43.662845,-79.34979,2006,3,5,18,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Rain,Wet,Dark,,,D55,0
+43.78168,-79.49377,2016,10,3,15,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Rain,Wet,Daylight,West,Non Intersection,D31,0
+43.772145,-79.25149,2012,4,5,21,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D43,0
+43.650645,-79.37729,2009,10,6,3,,,,,,,,,,Yes,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,,,D51,0
+43.818225,-79.284099,2015,8,1,14,,,,,,Yes,,,,,,,Local,,No Control,Clear,Dry,Daylight,East,Non Intersection,D42,0
+43.727904,-79.488223,2018,1,0,15,,,,,,,,,,Yes,,Yes,Local,North York,No Control,Snow,Loose Snow,Daylight,East,Non Intersection,D31,1
+43.716945,-79.55599,2011,11,4,21,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D23,0
+43.815245,-79.23239,2013,4,2,18,,,,,,,,,,Yes,,Yes,Minor Arterial,Scarborough,Stop Sign,Clear,Dry,"Daylight, artificial",North,At Intersection,D42,0
+43.666245,-79.37829,2012,11,1,17,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dusk,North,At Intersection,D51,0
+43.743345,-79.59299,2008,2,3,6,,,,,,,,,,Yes,Yes,Yes,Local,Etobicoke York,No Control,Clear,Dry,Dark,South,,D23,0
+43.76184,-79.215839,2015,10,4,15,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D43,0
+43.746295,-79.244525,2018,7,2,17,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,South,Intersection Related,D43,0
+43.816252,-79.227596,2014,12,4,17,,,Yes,,,,,,,Yes,Yes,,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D42,1
+43.681163,-79.333301,2020,6,4,22,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Clear,Dry,Dark,East,Non Intersection,D55,0
+43.776645,-79.31699,2011,5,6,14,,,,,,,,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,,D42,0
+43.789248,-79.343745,2015,5,4,11,,,,,,,,,,,,Yes,Collector,North York,No Control,Clear,Dry,Daylight,East,At/Near Private Drive,D33,0
+43.653945,-79.35849,2010,1,2,12,,,,,Yes,,,,Yes,,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D51,0
+43.774545,-79.43839,2008,9,0,10,,,,,,,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,,,D32,0
+43.685759,-79.473171,2018,11,4,14,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D12,0
+43.832621,-79.267932,2022,1,4,9,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D42,0
+43.651045,-79.38579,2011,1,3,14,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Snow,Wet,Daylight,South,,D52,0
+43.623709,-79.496753,2014,6,4,5,,,,,,Yes,Yes,,,,Yes,,,Etobicoke York,No Control,Clear,Dry,Daylight,East,Non Intersection,D22,0
+43.73429,-79.404529,2017,8,3,21,,,,,,,,Yes,,,,Yes,Major Arterial,North York,Traffic Controller,Clear,Dry,"Daylight, artificial",East,At Intersection,D32,0
+43.708745,-79.24979,2012,3,5,23,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D41,0
+43.737872,-79.429408,2014,10,1,20,,,,,,,,,Yes,,Yes,Yes,Major Arterial,North York,Stop Sign,Rain,Wet,"Dark, artificial",North,Intersection Related,D32,0
+43.687815,-79.303394,2013,10,4,10,,,,,,,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D55,0
+43.633326,-79.434558,2015,8,5,21,,,,,,,,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D14,0
+43.686747,-79.595546,2013,9,0,7,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Wet,Daylight,East,,D23,0
+43.686652,-79.568607,2021,8,6,18,,,,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,Non Intersection,D23,0
+43.75981,-79.225314,2016,7,5,18,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,Non Intersection,D43,0
+43.734945,-79.25609,2006,12,6,18,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Scarborough,No Control,Rain,Wet,Dark,East,,D41,0
+43.650023,-79.34885,2020,1,1,13,,,,,,,,,Yes,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,West,Non Intersection,D51,0
+43.700286,-79.397029,2013,8,1,20,,,,Yes,,,,,,Yes,Yes,,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,"Dark, artificial",East,At Intersection,D53,0
+43.693645,-79.31159,2008,10,4,17,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Pedestrian Crossover,Clear,Dry,Daylight,West,At Intersection,D55,1
+43.668597,-79.338092,2019,2,2,8,,,,Yes,,,,,,Yes,Yes,,Minor Arterial,Toronto and East York,No Control,Clear,Wet,Daylight,South,At/Near Private Drive,D55,0
+43.674243,-79.367488,2007,6,5,0,,,,,,Yes,Yes,,,,Yes,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Dark,West,At Intersection,D51,1
+43.664545,-79.45659,2009,9,3,17,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D11,0
+43.663756,-79.410678,2017,1,2,19,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,"Dark, artificial",West,At Intersection,D14,0
+43.728345,-79.43379,2006,8,0,13,,,,,,,,,,Yes,Yes,Yes,Local,North York,Stop Sign,Clear,Dry,Daylight,North,At Intersection,D32,0
+43.714145,-79.56789,2011,10,0,6,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Rain,Wet,Daylight,North,,D23,0
+43.672345,-79.46829,2011,4,2,22,,Yes,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dark,West,,D11,0
+43.697772,-79.593143,2021,5,3,19,,,,,,Yes,,,,,Yes,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D23,0
+43.817439,-79.222263,2013,10,0,19,,,,,,,,Yes,,,Yes,Yes,Minor Arterial,Scarborough,No Control,Rain,Wet,Daylight,East,,D42,0
+43.671691,-79.341853,2022,3,6,22,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dark,South,Non Intersection,D55,0
+43.693545,-79.48539,2012,12,1,9,Yes,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,,D12,0
+43.677145,-79.55089,2012,11,2,10,,,,Yes,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D22,0
+43.703265,-79.425868,2018,1,6,1,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D53,0
+43.648215,-79.370921,2014,9,3,9,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D51,0
+43.659745,-79.59409,2009,12,6,7,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D22,0
+43.694245,-79.55859,2010,10,5,22,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Dark,East,At Intersection,D23,0
+43.780345,-79.32539,2006,12,2,22,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Drifting Snow,Wet,Dark,South,At Intersection,D42,0
+43.741427,-79.314204,2017,7,2,7,,,,,,Yes,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D33,0
+43.687945,-79.28699,2013,5,3,8,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D41,0
+43.672064,-79.377925,2023,1,1,8,,,,Yes,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D51,0
+43.789496,-79.446224,2015,3,1,17,,,,,,,,,Yes,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,Non Intersection,D32,0
+43.647292,-79.511325,2021,7,5,13,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Daylight,South,At Intersection,D22,0
+43.75495,-79.350871,2014,2,2,16,,,,,,,,,Yes,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,West,,D33,1
+43.637745,-79.39849,2008,9,2,21,,,,,,,,,,,,Yes,,Toronto and East York,No Control,Clear,Dry,Dark,East,,D14,0
+43.672845,-79.46599,2007,2,1,9,,,,Yes,,,,,,,,,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,,D11,0
+43.769412,-79.364269,2014,5,3,20,,Yes,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,"Dark, artificial",South,At Intersection,D33,0
+43.682128,-79.471584,2013,6,5,18,Yes,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D12,0
+43.660304,-79.517085,2019,12,0,14,,,,,,,,,Yes,,Yes,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,At Intersection,D22,0
+43.642554,-79.340259,2018,8,5,2,,,,,,,,,Yes,Yes,,Yes,Local,Toronto and East York,No Control,Clear,Wet,"Dark, artificial",East,Non Intersection,D51,0
+43.693019,-79.307636,2014,8,4,17,,,,,,,,Yes,,,,Yes,Local,Toronto and East York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D55,0
+43.726745,-79.55209,2007,2,2,22,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Controller,Clear,Dry,Dark,North,At Intersection,D23,0
+43.63613,-79.400409,2018,4,1,22,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Rain,Wet,"Dark, artificial",Unknown,Non Intersection,D14,0
+43.755945,-79.52429,2011,6,2,17,,,,,,,,Yes,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D31,0
+43.714345,-79.33629,2011,6,1,15,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D55,0
+43.783213,-79.288211,2020,12,2,17,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Rain,Wet,"Dark, artificial",North,Intersection Related,D42,1
+43.639331,-79.39796,2020,1,5,16,,,,,,,,,,Yes,,Yes,Local,Toronto and East York,Traffic Signal,Rain,Wet,Dark,East,At Intersection,D14,0
+43.809145,-79.22169,2007,1,1,18,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Snow,Wet,Dark,East,At Intersection,D42,0
+43.781737,-79.233882,2015,7,2,9,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D43,0
+43.658881,-79.394641,2017,5,2,9,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,At Intersection,D52,0
+43.691306,-79.47002,2023,7,1,20,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D12,0
+43.659785,-79.390453,2021,9,4,17,,,,,Yes,Yes,,,,,Yes,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D52,1
+43.636389,-79.444042,2022,4,1,8,,,,,,Yes,,,,,Yes,Yes,Major Arterial,,No Control,Clear,Dry,Daylight,East,Non Intersection,D14,0
+43.700457,-79.427722,2019,9,0,20,,,,,,,,,,,Yes,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Dark,North,At Intersection,D13,0
+43.663645,-79.32859,2007,9,3,18,,,Yes,,,,,Yes,,,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D55,0
+43.772845,-79.44819,2008,12,0,9,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D32,0
+43.663943,-79.585178,2016,6,4,14,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Etobicoke York,Pedestrian Crossover,Clear,Dry,Daylight,South,At/Near Private Drive,D22,0
+43.800658,-79.143306,2019,7,3,22,,,,,,,,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",West,At/Near Private Drive,D42,0
+43.665545,-79.58619,2011,1,5,10,,,,,,,Yes,,Yes,,Yes,Yes,Minor Arterial,Etobicoke York,No Control,Snow,Slush,Daylight,East,,D22,0
+43.714745,-79.53669,2008,1,2,9,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,,D31,0
+43.711974,-79.280963,2020,8,2,15,,,,,,,,,,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D41,0
+43.727843,-79.417888,2013,4,1,14,,,,Yes,,,,,,Yes,,,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,,D32,1
+43.657725,-79.381496,2020,8,6,11,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,Intersection Related,D51,0
+43.78493,-79.310741,2009,11,1,13,,,,Yes,,,,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Rain,Wet,Daylight,North,,D42,0
+43.711028,-79.377147,2016,1,4,14,,,,,,,,,Yes,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Wet,Daylight,South,Intersection Related,D53,1
+43.670752,-79.388912,2014,7,2,11,,,,,,,,,,Yes,,Yes,Collector,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D53,0
+43.740245,-79.23209,2008,6,6,10,,,,,Yes,,Yes,,Yes,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D43,0
+43.690203,-79.355121,2018,7,3,7,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Pedestrian Crossover,Clear,Dry,Daylight,North,At Intersection,D55,0
+43.681945,-79.39159,2012,4,0,15,,,,,,,,Yes,,Yes,,,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Daylight,East,At Intersection,D53,0
+43.707171,-79.40327,2017,11,1,12,,,,,,,,,,Yes,Yes,Yes,Collector,North York,Stop Sign,Clear,Dry,Daylight,West,At Intersection,D53,1
+43.705545,-79.43839,2006,6,0,1,,Yes,,,,,,,Yes,,,Yes,,North York,No Control,Clear,Dry,Dark,North,,D13,0
+43.821345,-79.31689,2013,4,4,21,,,,,,,,Yes,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Wet,"Dark, artificial",West,At Intersection,D42,0
+43.797445,-79.31229,2010,3,1,8,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D42,0
+43.643245,-79.39199,2007,11,6,20,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dark,West,,D52,0
+43.794638,-79.4192,2015,3,3,16,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,At/Near Private Drive,D32,1
+43.812064,-79.301906,2016,11,5,18,,,,,,,,Yes,,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",South,At Intersection,D42,0
+43.788845,-79.26249,2010,3,3,13,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,At Intersection,D42,0
+43.672366,-79.386119,2018,2,0,8,,,,,,,,,,,,Yes,Local,,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D53,0
+43.805159,-79.20087,2015,10,1,6,,,Yes,,,,,,,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dawn, artificial",South,Non Intersection,D42,1
+43.758174,-79.233073,2014,8,5,2,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D43,0
+43.634445,-79.40869,2007,8,4,15,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D14,0
+43.649645,-79.49539,2008,4,0,8,,,,,,,,Yes,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,,D22,0
+43.744245,-79.59539,2006,7,0,13,,,,,,,,,Yes,,,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D23,0
+43.679186,-79.42467,2016,5,2,8,,,,,,,,Yes,Yes,,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,At/Near Private Drive,D13,0
+43.727428,-79.25365,2023,6,2,23,,,,,,Yes,,,,,Yes,Yes,,,Traffic Signal,Clear,Dry,"Dark, artificial",East,Intersection Related,D41,0
+43.655112,-79.398898,2014,4,1,14,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,North,At Intersection,D52,0
+43.771045,-79.21269,2010,12,4,17,,,,,,,Yes,,,,Yes,Yes,Collector,Scarborough,No Control,Snow,Slush,Dark,West,,D43,0
+43.637419,-79.428684,2016,1,4,18,,,,,,,,Yes,,,,Yes,Local,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",South,At/Near Private Drive,D14,0
+43.692345,-79.34989,2008,4,3,12,,,,,,Yes,,,,,,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,North,,D55,0
+43.654486,-79.363986,2018,6,4,23,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,"Dark, artificial",South,At Intersection,D51,0
+43.666098,-79.334277,2018,5,2,8,,,,Yes,,,,Yes,,,Yes,,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D55,1
+43.662445,-79.45589,2010,11,2,8,,,,Yes,,,,,,Yes,,,Minor Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,North,,D11,1
+43.793545,-79.33699,2008,1,4,9,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,,D33,0
+43.66265,-79.363513,2017,4,1,19,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D51,0
+43.716537,-79.592579,2023,6,3,7,,,,Yes,,,,,Yes,Yes,,,,,Traffic Signal,Clear,Dry,Daylight,East,Intersection Related,D23,0
+43.628745,-79.49169,2012,12,6,2,,,,,,,,,Yes,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Wet,"Dark, artificial",East,,D22,0
+43.755545,-79.24539,2009,5,2,23,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Rain,Wet,Dark,North,At Intersection,D43,0
+43.708445,-79.56519,2007,4,4,14,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,,D23,0
+43.737235,-79.245181,2017,5,5,17,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,Non Intersection,D43,0
+43.665445,-79.41139,2006,5,2,9,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D14,0
+43.797045,-79.14919,2007,8,3,10,,,,,,,,Yes,,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D42,0
+43.72008,-79.25677,2022,11,0,8,,,,,,,,,,Yes,,Yes,Local,Scarborough,No Control,Clear,Dry,Daylight,South,Intersection Related,D41,0
+43.721545,-79.28499,2006,4,1,19,,,Yes,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D41,1
+43.77872,-79.307895,2014,1,1,19,,,,,,,,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",South,Intersection Related,D42,0
+43.804152,-79.16875,2019,2,4,2,,,,,,,,,Yes,,,Yes,Minor Arterial,Scarborough,,Clear,Loose Snow,"Dark, artificial",South,At Intersection,D42,1
+43.773845,-79.44299,2009,12,5,23,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,South,,D32,0
+43.652145,-79.40479,2007,8,3,17,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D14,0
+43.703303,-79.491756,2016,12,6,15,,,,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,No Control,Snow,Loose Snow,Daylight,North,Non Intersection,D12,0
+43.701876,-79.575588,2020,1,3,11,,,,,Yes,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D23,0
+43.665946,-79.450092,2011,6,2,14,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,At Intersection,D11,0
+43.661345,-79.54389,2011,9,6,3,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Stop Sign,Clear,Dry,Dark,North,At Intersection,D22,0
+43.796945,-79.42479,2007,10,3,19,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,,D32,0
+43.654452,-79.369418,2020,6,5,10,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D51,0
+43.65148,-79.409694,2018,11,0,13,Yes,,,,,,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Intersection Related,D14,0
+43.786145,-79.47479,2010,10,3,6,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Dark,East,At Intersection,D32,0
+43.693445,-79.46029,2009,1,2,16,,,Yes,,,,,,,Yes,,,Major Arterial,North York,No Control,Snow,Slush,Daylight,West,,D13,0
+43.774501,-79.2522,2019,12,4,12,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,Intersection Related,D43,0
+43.701245,-79.51749,2007,8,5,13,,,,,,,Yes,,Yes,Yes,Yes,Yes,Collector,Etobicoke York,No Control,Clear,Dry,Daylight,West,,D12,0
+43.749645,-79.48759,2011,11,1,17,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,"Dark, artificial",North,,D31,0
+43.810045,-79.22049,2010,9,3,17,,,,,,,Yes,,Yes,,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,,D42,0
+43.767545,-79.22839,2006,12,6,8,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D43,1
+43.767241,-79.492,2022,7,3,16,,,,Yes,,,,Yes,,,,,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D31,0
+43.714415,-79.581371,2019,3,4,11,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,At/Near Private Drive,D23,0
+43.670445,-79.35389,2012,2,0,15,,,,,,,Yes,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D55,0
+43.734645,-79.53389,2010,12,3,6,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D31,0
+43.622897,-79.481166,2021,6,5,12,,,,Yes,Yes,Yes,,,,,Yes,,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D22,0
+43.784453,-79.353236,2016,9,0,15,,,,,,Yes,,,,,,,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,Non Intersection,D33,0
+43.752445,-79.40809,2006,5,0,21,,,,,,,,,Yes,,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,South,,D32,0
+43.695545,-79.58959,2012,9,5,18,,,,,,,,,,Yes,,Yes,Collector,Etobicoke York,No Control,Clear,Dry,Daylight,South,,D23,1
+43.724559,-79.324329,2019,9,3,14,,,,,,,,Yes,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,Non Intersection,D55,0
+43.677169,-79.496112,2020,11,5,20,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",North,At Intersection,D12,0
+43.662945,-79.37689,2007,12,6,19,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Dark,North,,D51,0
+43.724532,-79.491092,2018,3,3,12,,,,,,,,,Yes,Yes,,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Daylight,North,Intersection Related,D31,1
+43.786545,-79.18829,2007,7,0,20,,,,,Yes,,,,Yes,,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D43,0
+43.654045,-79.37999,2013,6,1,21,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",South,,D52,0
+43.825345,-79.30009,2010,10,1,9,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,NSA,0
+43.767646,-79.189586,2013,5,1,21,,,Yes,,,,,Yes,,,,,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D43,0
+43.607131,-79.520709,2021,1,4,11,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D22,0
+43.691345,-79.48479,2009,8,2,14,,,,,,,,,,,,Yes,Collector,Etobicoke York,No Control,Clear,Dry,Daylight,North,,D12,0
+43.648845,-79.47529,2011,11,3,14,,,Yes,,,,,Yes,,,,,Collector,Toronto and East York,Stop Sign,Clear,Dry,Daylight,North,,D11,0
+43.749388,-79.232257,2021,2,4,22,,,,,,,Yes,,Yes,,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",South,At Intersection,D43,0
+43.76287,-79.211017,2023,4,5,11,,,,,,,,,Yes,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,Intersection Related,D43,0
+43.760545,-79.41139,2012,10,4,8,,,,,,,,,,Yes,,,Local,North York,No Control,Clear,Dry,Daylight,West,,D32,0
+43.683345,-79.32359,2008,7,0,13,Yes,,,,,,Yes,,Yes,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D55,1
+43.664745,-79.41309,2009,7,0,10,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D14,0
+43.708121,-79.29568,2014,7,4,19,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,At Intersection,D41,0
+43.710574,-79.393894,2014,9,4,9,,,,,,,,,,Yes,Yes,,Collector,North York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D53,0
+43.684345,-79.39259,2010,9,1,15,,,,,,,,Yes,,,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,,D53,0
+43.78728,-79.470042,2014,3,6,12,,,,,,,,,,,,Yes,Major Arterial,North York,Traffic Signal,Clear,Wet,Daylight,South,At Intersection,D32,0
+43.778545,-79.22219,2010,5,3,13,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Rain,Wet,Daylight,East,At Intersection,D43,0
+43.749145,-79.51569,2010,9,1,6,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D31,0
+43.795645,-79.22979,2007,10,2,18,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Dark,West,At Intersection,D42,0
+43.648566,-79.386577,2018,10,2,22,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D52,0
+43.747645,-79.28399,2009,9,4,23,,,Yes,,,,,,,Yes,,,Major Arterial,Scarborough,No Control,Clear,Dry,Dark,East,,D41,0
+43.663845,-79.38419,2006,8,3,1,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Dark,North,At Intersection,D52,0
+43.772151,-79.25146,2023,12,1,20,,,,,,,,,,Yes,Yes,Yes,Major Arterial,,Traffic Signal,"Fog, Mist, Smoke, Dust",Wet,"Dark, artificial",North,Intersection Related,D43,0
+43.724745,-79.30259,2009,4,5,5,,,,,Yes,,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,South,,D41,0
+43.777068,-79.231982,2017,6,1,13,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Rain,Wet,Daylight,Unknown,Non Intersection,D43,0
+43.715945,-79.35349,2006,9,0,16,,,,Yes,,,,Yes,,,Yes,,Major Arterial,North York,No Control,Clear,Dry,Daylight,West,At Intersection,D53,1
+43.679766,-79.538974,2017,2,1,10,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D22,0
+43.700945,-79.42559,2010,5,1,10,,,,,,,,,Yes,,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D13,0
+43.702345,-79.45209,2007,12,3,18,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D13,0
+43.799033,-79.273639,2014,12,5,19,Yes,,,,,,,,Yes,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",South,Non Intersection,D42,0
+43.669543,-79.389987,2008,1,5,14,,,,,,,,Yes,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D52,0
+43.642176,-79.565959,2019,4,6,11,,,,,,,,,,,,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D22,0
+43.717445,-79.52409,2006,12,6,13,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,,D31,0
+43.665389,-79.468578,2018,6,4,22,,Yes,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D11,0
+43.688345,-79.41389,2009,3,1,10,,,,,,,,,,Yes,Yes,Yes,Local,Toronto and East York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D13,0
+43.744273,-79.607539,2016,3,4,10,,,,Yes,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D23,0
+43.668145,-79.34039,2009,1,4,16,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Wet,Daylight,West,At Intersection,D55,0
+43.706175,-79.477496,2015,1,3,6,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dawn, artificial",South,At Intersection,D12,0
+43.715145,-79.50709,2008,2,1,16,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Snow,Wet,Dark,South,,D12,0
+43.722369,-79.301685,2013,12,1,15,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Stop Sign,Clear,Dry,Daylight,West,,D41,1
+43.672145,-79.41909,2006,8,4,16,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,At Intersection,D14,0
+43.809027,-79.322208,2021,6,1,22,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",North,Non Intersection,D42,0
+43.704245,-79.41029,2008,5,3,13,,,,,,,,Yes,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,,D53,1
+43.679816,-79.416942,2017,1,6,13,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D13,0
+43.772772,-79.533733,2022,1,2,16,,,,,,,,,,,,Yes,Major Arterial,,No Control,Clear,Dry,Daylight,West,Non Intersection,D31,0
+43.656649,-79.406482,2012,9,6,1,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",West,At Intersection,D14,0
+43.694503,-79.402149,2021,3,6,15,,,,,,Yes,,,,,Yes,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,Intersection Related,D53,0
+43.673964,-79.388301,2017,10,0,16,,,,,,,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,Non Intersection,D53,0
+43.781508,-79.494464,2018,9,0,10,,,,Yes,,,,Yes,,,,,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D31,0
+43.703868,-79.411601,2018,6,5,12,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Daylight,West,At Intersection,D53,1
+43.804745,-79.28149,2010,1,0,13,Yes,,,,,,,,,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,At Intersection,D42,0
+43.664443,-79.34238,2015,4,0,14,,,,,,,,,Yes,Yes,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D55,1
+43.640418,-79.388896,2023,9,6,12,,,,,,,,Yes,,Yes,,,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,Intersection Related,D52,0
+43.734862,-79.301227,2014,11,6,13,,,,,,Yes,,,,,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,Intersection Related,D41,0
+43.763011,-79.317523,2015,6,1,4,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,"Dark, artificial",North,Intersection Related,D41,0
+43.724445,-79.48159,2009,9,2,8,,,,Yes,,,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,At Intersection,D31,0
+43.676662,-79.553142,2018,3,0,15,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,Non Intersection,D22,0
+43.809878,-79.257671,2019,4,2,15,,,,Yes,,,,,,,Yes,,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D42,0
+43.802344,-79.191989,2009,9,4,13,,,,,,Yes,,,,,Yes,Yes,Local,Scarborough,No Control,Clear,Dry,Daylight,North,,D42,0
+43.71532,-79.490322,2023,12,5,20,,,,,,,,,,Yes,,Yes,,,Traffic Signal,Rain,Wet,"Dark, artificial",West,Intersection Related,D12,0
+43.744078,-79.40668,2017,8,5,22,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,"Dark, artificial",South,At Intersection,D32,0
+43.733206,-79.223132,2020,9,0,0,,,,,,Yes,,,,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D43,0
+43.685645,-79.31279,2009,5,4,17,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D55,0
+43.702132,-79.335933,2018,11,2,18,,,,,,,,,Yes,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Dark,North,Non Intersection,D55,0
+43.665745,-79.58779,2011,3,5,7,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dawn,East,,D22,0
+43.647055,-79.393703,2021,8,2,9,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,At/Near Private Drive,D52,0
+43.655474,-79.452243,2016,10,3,7,,,Yes,,,,,,,Yes,,,Minor Arterial,Toronto and East York,No Control,Rain,Wet,"Dusk, artificial",North,Non Intersection,D11,0
+43.649562,-79.419528,2015,9,2,7,,,,,,Yes,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D14,0
+43.763445,-79.29139,2006,2,4,9,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Rain,Wet,Daylight,North,At Intersection,D41,0
+43.755477,-79.245387,2020,12,1,18,,,,,Yes,,Yes,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D43,0
+43.763245,-79.41139,2007,10,6,1,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D32,0
+43.73215,-79.342075,2018,7,5,15,,,,,,,,,Yes,,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D33,0
+43.702994,-79.374103,2022,2,4,22,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Snow,Wet,"Dark, artificial",North,Intersection Related,D53,0
+43.804745,-79.27669,2006,6,6,16,Yes,,,,,,,,,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,South,At Intersection,D42,0
+43.815394,-79.324634,2019,2,5,9,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Wet,Daylight,East,Non Intersection,D42,1
+43.787345,-79.257289,2012,10,5,19,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Rain,Wet,"Dark, artificial",North,At Intersection,D42,0
+43.750745,-79.49259,2006,5,2,18,,,,,,,,,,Yes,,Yes,Local,North York,No Control,Rain,Wet,Daylight,West,,D31,1
+43.648482,-79.396251,2022,6,6,6,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,Non Intersection,D52,0
+43.668645,-79.49239,2011,5,4,16,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Rain,Wet,Daylight,North,,D12,0
+43.741045,-79.53989,2006,1,5,9,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Pedestrian Crossover,Strong wind,Ice,Daylight,South,,D31,0
+43.656085,-79.362254,2014,8,0,1,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",West,,D51,1
+43.744746,-79.399562,2022,11,2,11,,,,,,,,Yes,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,"Daylight, artificial",East,At Intersection,D32,0
+43.66075,-79.413425,2013,9,6,12,,,,,,,,Yes,,,,Yes,Minor Arterial,Toronto and East York,Traffic Controller,Clear,Dry,Daylight,East,,D14,0
+43.758048,-79.513431,2014,11,4,6,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dawn, artificial",North,At Intersection,D31,1
+43.698107,-79.52325,2013,12,1,7,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D23,0
+43.764506,-79.387477,2014,6,3,11,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D33,0
+43.754336,-79.298351,2014,7,5,14,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D41,0
+43.684207,-79.437534,2019,1,3,6,,,,,,,,,,Yes,,Yes,Minor Arterial,Etobicoke York,No Control,Freezing Rain,Ice,"Dark, artificial",South,Non Intersection,D13,0
+43.743193,-79.582073,2017,10,4,20,,,,,,,,Yes,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D23,0
+43.682761,-79.463321,2014,11,4,10,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,Intersection Related,D12,0
+43.686656,-79.490619,2019,11,3,18,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Rain,Wet,"Dark, artificial",West,At Intersection,D12,0
+43.689745,-79.47489,2011,12,6,10,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,,D12,0
+43.735114,-79.452129,2017,10,0,15,,,,,,Yes,,,,,,,Minor Arterial,North York,No Control,Clear,Dry,Daylight,North,Non Intersection,D32,0
+43.677045,-79.44739,2011,12,1,14,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Daylight,West,,D13,0
+43.737345,-79.52609,2012,8,0,13,,,,Yes,,,Yes,,,,Yes,Yes,Collector,Etobicoke York,No Control,Rain,Wet,Daylight,South,At Intersection,D31,0
+43.659426,-79.347415,2023,8,1,16,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,,Clear,Dry,Daylight,West,Non Intersection,D55,0
+43.738945,-79.57999,2009,9,1,14,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,,D23,1
+43.803805,-79.137714,2022,11,0,16,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,Non Intersection,D42,0
+43.798645,-79.36059,2012,9,5,13,,,,,,,,,,Yes,,Yes,Collector,North York,No Control,Rain,Wet,Daylight,Unknown,,D33,0
+43.635577,-79.474414,2019,6,6,18,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,Non Intersection,D11,0
+43.688601,-79.44736,2013,7,4,22,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D13,0
+43.772145,-79.25149,2011,1,6,1,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,South,At Intersection,D43,0
+43.654383,-79.398639,2015,1,4,21,,,Yes,,,,,Yes,,,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Wet,"Dark, artificial",South,Intersection Related,D14,0
+43.768645,-79.18509,2010,6,5,11,,,,,,,,,,Yes,,Yes,Minor Arterial,Scarborough,No Control,Other,Wet,Daylight,East,At Intersection,D43,0
+43.713045,-79.33579,2006,4,6,17,Yes,,,,,,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,,D55,0
+43.694689,-79.27637,2019,1,3,19,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",North,At Intersection,D41,0
+43.721377,-79.505595,2014,4,3,9,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,Non Intersection,D31,0
+43.686568,-79.401454,2017,7,0,13,,,Yes,,,,,Yes,,,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D53,0
+43.684945,-79.42159,2006,5,3,15,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,East,,D13,0
+43.658145,-79.38639,2008,10,2,16,,,,,,,,,,,,Yes,Minor Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,North,,D52,0
+43.675345,-79.45479,2007,8,2,12,,,,,,,,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,,D13,0
+43.793845,-79.23879,2008,4,6,16,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D42,0
+43.683845,-79.51969,2008,11,6,15,,,,,,,,,Yes,,,Yes,Local,Etobicoke York,No Control,Clear,Dry,Daylight,East,,D23,0
+43.685145,-79.29469,2009,7,0,17,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D55,0
+43.739545,-79.51249,2012,6,5,13,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,At Intersection,D31,0
+43.767745,-79.38309,2009,1,1,13,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D33,1
+43.753421,-79.357456,2016,11,5,18,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,"Dark, artificial",North,At Intersection,D33,0
+43.773707,-79.413989,2017,11,4,9,,,,,,,,,Yes,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Wet,Daylight,South,At Intersection,D32,0
+43.718945,-79.56899,2009,10,4,8,,,,,,,,,,Yes,Yes,Yes,Local,Etobicoke York,No Control,Rain,Wet,Daylight,South,At Intersection,D23,0
+43.645945,-79.40629,2013,5,1,9,Yes,,,,,,,,,,,Yes,Local,Toronto and East York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D14,0
+43.698445,-79.46349,2012,10,2,7,,,,,,,,,,Yes,,Yes,Minor Arterial,North York,Traffic Signal,Rain,Wet,Dark,South,At Intersection,D13,0
+43.754775,-79.517047,2018,8,3,14,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D31,0
+43.728129,-79.574641,2016,7,0,20,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dusk, artificial",East,At Intersection,D23,1
+43.678645,-79.44329,2011,1,4,5,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Snow,Slush,Dark,South,,D13,1
+43.797778,-79.416728,2021,8,1,18,,,,,,,,,,,Yes,Yes,Local,North York,Stop Sign,Clear,Dry,Daylight,North,Intersection Related,D32,0
+43.641045,-79.43449,2007,12,4,20,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D11,0
+43.820745,-79.29489,2012,9,2,18,,,Yes,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dusk,North,At Intersection,D42,0
+43.655245,-79.43359,2008,1,2,10,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,,D11,0
+43.656645,-79.38109,2007,7,1,9,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,At Intersection,D52,0
+43.730849,-79.273853,2023,11,6,18,,,,,,,,,,Yes,Yes,Yes,,,Traffic Signal,Rain,Wet,Dark,South,Intersection Related,D41,0
+43.747023,-79.311496,2019,8,0,22,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",North,Non Intersection,D41,0
+43.650745,-79.54079,2010,1,3,1,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Wet,Dark,West,At Intersection,D22,0
+43.604254,-79.533725,2015,10,5,17,,,,,Yes,,,,Yes,,Yes,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D22,0
+43.798037,-79.217922,2021,9,5,21,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",West,Intersection Related,D42,0
+43.72782,-79.471133,2013,11,5,1,,,,,,,Yes,,,,Yes,Yes,Local,North York,Stop Sign,Clear,Dry,"Dark, artificial",West,At/Near Private Drive,D32,0
+43.734045,-79.35589,2007,6,1,19,,,,,,,Yes,,,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,North,At Intersection,D33,0
+43.650939,-79.43996,2020,10,2,3,,,,,,,Yes,,Yes,,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D11,0
+43.795935,-79.429225,2014,4,2,18,,,Yes,,,,,,Yes,,,,Major Arterial,North York,Traffic Signal,Rain,Wet,Daylight,West,At Intersection,D32,0
+43.670489,-79.389804,2021,10,5,19,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",South,At Intersection,D53,0
+43.633945,-79.43739,2008,3,0,3,,,,,,,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Wet,Dark,East,,D14,0
+43.750245,-79.46339,2009,10,0,12,,,,,,,,,Yes,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,West,,D32,0
+43.647952,-79.404285,2022,2,2,20,Yes,,,,,,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Snow,Wet,Dark,South,At Intersection,D14,0
+43.628045,-79.55889,2006,2,3,7,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D22,0
+43.701564,-79.503444,2015,12,1,11,,,,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,At Intersection,D12,1
+43.65053,-79.581714,2022,3,6,3,,Yes,,,,,Yes,,,,Yes,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D22,0
+43.751013,-79.222255,2016,5,4,19,,,Yes,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D43,0
+43.798484,-79.241008,2017,5,3,20,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Rain,Wet,Daylight,West,At Intersection,D42,0
+43.721245,-79.30119,2008,9,2,19,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,,D41,0
+43.780772,-79.469775,2016,12,5,3,,Yes,,,,,Yes,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Slush,"Dark, artificial",South,At Intersection,D32,0
+43.624645,-79.51519,2007,12,1,7,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Stop Sign,Strong wind,Wet,Daylight,North,At Intersection,D22,0
+43.645503,-79.403354,2011,1,4,14,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Wet,Daylight,North,,D14,0
+43.661261,-79.389972,2021,5,1,15,,,Yes,,,,,,Yes,,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,Non Intersection,D52,0
+43.742285,-79.222949,2016,4,0,21,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Rain,Wet,Dark,West,Non Intersection,D43,1
+43.798911,-79.14622,2016,3,3,0,,Yes,,,Yes,,Yes,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Freezing Rain,Slush,"Dark, artificial",East,At Intersection,D42,0
+43.683745,-79.41509,2013,6,3,11,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D13,0
+43.691775,-79.474246,2021,8,5,3,,,,,,Yes,Yes,,Yes,,Yes,,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",West,Intersection Related,D12,0
+43.644267,-79.375842,2012,12,6,16,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,"Dark, artificial",West,At Intersection,D51,0
+43.7741,-79.527782,2014,5,1,7,,,,,,,,Yes,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,Non Intersection,D31,0
+43.693345,-79.56249,2012,10,1,19,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D23,0
+43.783245,-79.28829,2006,10,0,13,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D42,0
+43.814509,-79.292178,2016,9,3,23,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",South,Intersection Related,D42,0
+43.690345,-79.44809,2006,9,4,21,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Dark,South,,D13,0
+43.794993,-79.14307,2023,9,4,10,,,,,,,,,,,,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,North,Non Intersection,D43,0
+43.751242,-79.63467,2015,8,3,9,,,,Yes,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,Intersection Related,D23,0
+43.696645,-79.55169,2010,10,0,8,,,,,,,,,,Yes,,Yes,Local,Etobicoke York,No Control,Clear,Dry,Daylight,West,,D23,0
+43.733745,-79.60669,2009,6,4,15,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D23,1
+43.599353,-79.525653,2018,9,2,14,,,,Yes,,,,,,Yes,,,Local,Etobicoke York,No Control,Clear,Dry,Daylight,Unknown,Non Intersection,D22,1
+43.663043,-79.402095,2014,4,1,19,,,,,,,,Yes,Yes,,,Yes,Major Arterial,Toronto and East York,No Control,Other,Dry,Daylight,East,Non Intersection,D52,0
+43.773045,-79.42179,2013,7,2,11,,,,,,,,,,Yes,,Yes,Local,North York,No Control,Clear,Dry,Daylight,South,,D32,0
+43.662455,-79.35136,2014,7,1,16,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D55,0
+43.700645,-79.60769,2007,1,0,17,,,,,,,,,,,Yes,Yes,Collector,Etobicoke York,No Control,Freezing Rain,Slush,Dark,East,,D23,0
+43.700145,-79.51629,2012,12,4,3,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",West,At Intersection,D12,0
+43.764414,-79.248561,2019,1,5,22,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",South,Non Intersection,D43,1
+43.786906,-79.311565,2011,7,4,22,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Dark,South,,D42,1
+43.74924,-79.244464,2014,5,5,19,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,Non Intersection,D43,0
+43.703757,-79.523952,2018,8,5,23,,,,,,,,Yes,,,,Yes,Collector,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",East,At Intersection,D12,0
+43.784645,-79.48109,2007,3,0,21,Yes,,,Yes,Yes,,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Loose Snow,Dark,North,At Intersection,D32,0
+43.708586,-79.478023,2019,7,2,9,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,Non Intersection,D12,0
+43.704264,-79.426135,2013,10,6,20,,,,,,,,,Yes,Yes,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,"Dark, artificial",South,,D53,0
+43.634085,-79.425502,2012,9,6,1,,Yes,,,,,,,Yes,,Yes,Yes,Local,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",North,,D14,0
+43.782679,-79.445216,2018,4,2,16,,,,,,Yes,,,,,,,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,Non Intersection,D32,0
+43.656745,-79.39959,2008,10,6,3,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Dark,South,,D14,0
+43.722245,-79.41559,2011,1,2,3,,,Yes,,Yes,,,,Yes,,Yes,Yes,Major Arterial,North York,Traffic Signal,Snow,Packed Snow,Dark,North,At Intersection,D53,0
+43.707845,-79.30189,2011,8,1,21,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Dark,East,,D55,0
+43.649577,-79.431415,2016,8,0,13,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D14,0
+43.676945,-79.38949,2012,10,3,21,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",South,At Intersection,D53,0
+43.703145,-79.43699,2010,6,2,17,,,,,,,,,,Yes,,Yes,Collector,North York,No Control,Clear,Dry,Daylight,East,,D13,0
+43.768851,-79.46693,2022,10,3,7,,,Yes,,,,,,,Yes,,,Major Arterial,North York,No Control,Clear,Dry,Dark,South,Non Intersection,D32,0
+43.644461,-79.40652,2016,5,4,20,,,,,,,,,Yes,,,Yes,Collector,Toronto and East York,No Control,Clear,Dry,Dusk,East,Non Intersection,D14,0
+43.675376,-79.404712,2023,6,5,16,,,,,,,,,,,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,Intersection Related,D53,0
+43.642836,-79.522624,2019,6,4,12,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,At Intersection,D22,0
+43.801845,-79.29429,2012,10,0,10,,,,,,,,Yes,,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D42,0
+43.646745,-79.39559,2012,5,2,17,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,,D14,0
+43.683962,-79.361606,2016,12,6,22,,,,,,,,,,Yes,Yes,Yes,,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",South,Non Intersection,D55,0
+43.634391,-79.439014,2022,9,5,16,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D14,0
+43.676345,-79.55439,2008,8,3,17,,,,Yes,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,,D22,0
+43.700083,-79.318996,2021,1,2,11,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,Intersection Related,D55,0
+43.621604,-79.523433,2015,5,4,12,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,At/Near Private Drive,D22,0
+43.72465,-79.302608,2019,12,2,17,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D41,0
+43.656211,-79.408946,2015,10,6,14,,,,,,,Yes,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,"Dark, artificial",East,At Intersection,D14,0
+43.676356,-79.593196,2017,8,0,20,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D23,0
+43.725577,-79.297481,2019,7,5,22,,,,,,,,,Yes,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Rain,Wet,"Dark, artificial",South,At Intersection,D41,0
+43.779215,-79.275546,2023,4,5,2,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Scarborough,Stop Sign,Rain,Wet,"Dark, artificial",South,Intersection Related,D42,0
+43.758045,-79.51339,2007,10,3,22,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D31,0
+43.631745,-79.43259,2006,7,0,13,,,,,,,,Yes,,,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D14,0
+43.671797,-79.514888,2022,8,1,19,,,,,,,,Yes,,,,Yes,Collector,Etobicoke York,No Control,Clear,Dry,Daylight,West,At/Near Private Drive,D22,0
+43.797945,-79.31249,2009,1,4,20,,,,,,,,,Yes,,,Yes,Minor Arterial,Scarborough,No Control,Snow,Other,Dark,North,,D42,0
+43.728297,-79.418041,2014,11,6,15,Yes,,,,,,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,Non Intersection,D32,0
+43.70978,-79.290897,2021,2,1,14,Yes,,,,,,,,,,,Yes,Major Arterial,Scarborough,Traffic Signal,Snow,Wet,Daylight,West,Intersection Related,D41,0
+43.836645,-79.25119,2008,5,4,7,,,,,,,,,,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,North,,NSA,0
+43.653159,-79.397022,2015,6,1,10,Yes,,,,,,,,Yes,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D52,0
+43.809945,-79.33879,2008,8,0,7,Yes,,,,,,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,,D42,0
+43.692745,-79.31589,2009,7,5,11,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D55,1
+43.729544,-79.30463,2012,11,3,21,,,,,,,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,"Dark, artificial",South,,D41,0
+43.748245,-79.54159,2011,4,5,19,,,,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D31,0
+43.633545,-79.57079,2013,3,0,20,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,"Dark, artificial",South,At Intersection,D22,0
+43.68616,-79.549037,2016,2,5,2,,,,,,,Yes,,Yes,,Yes,Yes,Collector,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",North,Non Intersection,D23,0
+43.79074,-79.452991,2018,1,0,11,,,,,,,,Yes,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Daylight,North,At Intersection,D32,0
+43.687545,-79.52889,2013,3,0,22,,,,,,,,,,Yes,,Yes,Minor Arterial,Etobicoke York,Stop Sign,Rain,Wet,"Dark, artificial",South,,D23,0
+43.677146,-79.367893,2008,5,5,0,,,,,,Yes,Yes,,,,Yes,,,Toronto and East York,No Control,Clear,Dry,Dark,North,,D53,1
+43.704997,-79.278034,2023,3,2,19,,,,,,,,,,,Yes,Yes,Minor Arterial,Scarborough,Stop Sign,Clear,Dry,"Dusk, artificial",West,Intersection Related,D41,0
+43.749345,-79.61029,2008,12,3,7,,,,Yes,,,,,,Yes,,,Major Arterial,Etobicoke York,No Control,Clear,Wet,Dark,South,,D23,0
+43.734969,-79.617831,2018,2,2,21,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dusk, artificial",North,At Intersection,D23,0
+43.687316,-79.549732,2018,8,0,16,,,Yes,,Yes,,Yes,,Yes,,Yes,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D23,0
+43.691545,-79.57079,2010,6,1,1,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Dark,South,At Intersection,D23,0
+43.783106,-79.470119,2022,8,4,4,,,,,,,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,"Dawn, artificial",North,Non Intersection,D32,1
+43.658473,-79.424274,2017,8,0,18,,,,,,Yes,,,,,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,Intersection Related,D14,0
+43.812712,-79.321346,2017,12,4,7,,,,,,,,Yes,,,,Yes,Collector,Scarborough,No Control,Clear,Wet,Daylight,North,Non Intersection,D42,0
+43.809844,-79.257686,2013,8,6,10,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D42,1
+43.792521,-79.245204,2015,10,5,16,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,Non Intersection,D42,0
+43.757769,-79.224674,2020,12,5,23,,,,,,,,,Yes,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Wet,"Dark, artificial",West,At Intersection,D43,0
+43.720385,-79.456126,2022,6,5,11,,,,,,,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,Intersection Related,D32,0
+43.746276,-79.345851,2019,2,1,8,,,,,,,,,Yes,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,North,At Intersection,D33,0
+43.789206,-79.194324,2022,7,1,12,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D43,0
+43.644652,-79.416263,2019,5,1,11,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D14,0
+43.656409,-79.40768,2013,10,1,8,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D14,0
+43.774863,-79.177943,2023,8,4,17,,,,,,,,,Yes,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,Intersection Related,D43,0
+43.796668,-79.24876,2016,3,2,13,,,,,,,,,Yes,,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,South,At/Near Private Drive,D42,0
+43.78575,-79.289455,2014,8,5,5,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",East,Intersection Related,D42,1
+43.734945,-79.25619,2006,3,6,2,,Yes,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Dark,West,,D41,1
+43.765745,-79.28109,2007,7,6,8,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D41,1
+43.652262,-79.401134,2014,5,5,2,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",Unknown,,D14,1
+43.737045,-79.24619,2009,1,3,2,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Wet,Dark,West,At Intersection,D43,1
+43.673133,-79.414378,2014,2,5,9,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D14,0
+43.637103,-79.435993,2017,2,4,6,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Dawn,South,At Intersection,D14,0
+43.732245,-79.61379,2012,3,3,18,,,Yes,,,,,,,Yes,,,Collector,Etobicoke York,No Control,Clear,Dry,Daylight,West,,D23,0
+43.677722,-79.350711,2019,12,0,17,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Wet,"Dark, artificial",South,At Intersection,D55,0
+43.790045,-79.36809,2007,8,0,14,,,,,,,,Yes,Yes,,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D33,0
+43.722145,-79.30159,2012,4,4,16,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,West,At Intersection,D41,0
+43.647545,-79.40219,2011,1,1,19,,Yes,,Yes,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Snow,Loose Snow,Dark,West,,D14,0
+43.677245,-79.446391,2012,10,1,12,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D13,0
+43.691245,-79.572307,2013,9,2,11,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,,D23,0
+43.661045,-79.51739,2009,7,4,23,,,,,,,,,,Yes,,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Dark,South,,D22,0
+43.661045,-79.34009,2011,2,4,14,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D55,0
+43.674045,-79.36769,2010,10,3,17,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,East,,D51,0
+43.754496,-79.250018,2019,12,6,1,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,,,Dark,East,Non Intersection,D43,1
+43.626677,-79.526668,2013,12,3,17,,,,,,,,,,Yes,,Yes,Collector,Etobicoke York,No Control,Clear,Loose Sand or Gravel,"Dark, artificial",East,Non Intersection,D22,0
+43.65576,-79.598361,2016,11,2,15,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D22,0
+43.734889,-79.580325,2019,8,5,17,,,,,,,,Yes,,,Yes,Yes,Local,Etobicoke York,No Control,Clear,Dry,Daylight,West,At Intersection,D23,0
+43.633063,-79.434955,2016,12,2,13,,,,,,,,,Yes,,Yes,Yes,,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D14,0
+43.673945,-79.30789,2008,9,2,18,Yes,,,Yes,,,,,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D55,1
+43.670325,-79.455783,2014,2,2,9,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Wet,Daylight,South,At Intersection,D11,0
+43.721145,-79.48089,2013,5,3,18,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D12,0
+43.666567,-79.356319,2022,9,4,1,,,,,,Yes,Yes,,,,Yes,,Expressway,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",North,Non Intersection,D55,0
+43.653645,-79.45139,2008,6,6,2,,,,,,,,Yes,,,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dark,West,,D11,0
+43.610545,-79.53779,2007,11,4,8,,,Yes,,,,,,Yes,,Yes,Yes,Local,Etobicoke York,Stop Sign,Snow,Ice,Daylight,South,At Intersection,D22,0
+43.680545,-79.49759,2006,12,4,17,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dark,East,,D12,1
+43.803745,-79.28629,2009,12,5,21,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,South,At Intersection,D42,0
+43.642066,-79.377452,2016,9,3,22,,,,,,Yes,,,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",North,Intersection Related,D52,1
+43.669692,-79.43275,2013,9,6,19,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,"Dark, artificial",West,,D14,0
+43.694239,-79.558635,2015,7,4,21,,,,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dusk, artificial",East,At Intersection,D23,0
+43.671096,-79.429454,2016,9,3,19,,,,,,Yes,Yes,,,,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,Non Intersection,D13,0
+43.740245,-79.23209,2012,3,4,12,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D43,0
+43.645556,-79.369815,2014,10,6,23,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D51,0
+43.645845,-79.39989,2007,10,1,17,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D14,0
+43.749145,-79.43689,2010,4,6,10,,,Yes,,,,,,,Yes,,,Major Arterial,North York,No Control,Clear,Dry,Daylight,North,At Intersection,D32,0
+43.665845,-79.43789,2011,2,5,3,,Yes,,,,,,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D14,0
+43.687945,-79.39459,2010,1,1,20,Yes,,,,,,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Wet,Dark,East,,D53,0
+43.656445,-79.40769,2010,7,5,2,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D14,0
+43.685603,-79.31274,2022,3,2,11,,,,Yes,,,,,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,Intersection Related,D55,0
+43.827245,-79.29169,2007,4,5,14,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D42,0
+43.696145,-79.53269,2011,7,5,12,,,,,,,,,Yes,,,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D23,1
+43.737162,-79.34344,2015,11,6,20,,,,,,,,Yes,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D33,0
+43.648845,-79.38559,2006,10,3,15,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D52,0
+43.759638,-79.361499,2021,1,0,21,,,,,,,,,,,,Yes,Major Arterial,North York,No Control,Snow,Wet,Dark,South,Non Intersection,D33,0
+43.742396,-79.567699,2019,8,4,22,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D23,1
+43.653292,-79.348758,2020,11,4,23,,,,,,Yes,,,,,,,Expressway,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",North,Non Intersection,D55,0
+43.721145,-79.57119,2006,8,1,9,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,,D23,0
+43.682045,-79.46649,2008,1,4,18,,,,,,,Yes,,Yes,,Yes,Yes,Minor Arterial,Etobicoke York,Stop Sign,Clear,Dry,Dark,South,,D12,1
+43.741427,-79.50146,2016,11,6,22,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D31,0
+43.798731,-79.239833,2021,1,2,12,,,,,,,Yes,,,,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Wet,Daylight,West,Non Intersection,D42,0
+43.760993,-79.499957,2016,7,5,2,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D31,0
+43.666045,-79.49929,2008,8,0,2,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,South,,D12,0
+43.730445,-79.60139,2009,11,3,0,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Wet,Dark,North,,D23,0
+43.660645,-79.37889,2010,10,5,15,,,,,,Yes,,,,,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D51,0
+43.704745,-79.50429,2009,3,4,23,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dark,North,At Intersection,D12,0
+43.774321,-79.389774,2015,11,3,20,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,"Dawn, artificial",North,Intersection Related,D33,0
+43.658245,-79.37099,2011,2,4,18,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D51,0
+43.638892,-79.390979,2014,5,5,22,,,,,,,,,Yes,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D52,0
+43.821345,-79.31689,2012,7,4,10,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D42,0
+43.799807,-79.237598,2018,12,4,7,,,,,,,,,,Yes,,Yes,Minor Arterial,Scarborough,No Control,Rain,Wet,"Dark, artificial",East,Intersection Related,D42,0
+43.669177,-79.335567,2019,11,4,19,,,,,,,,Yes,Yes,,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",South,At Intersection,D55,0
+43.719145,-79.60349,2009,3,5,21,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dark,East,At Intersection,D23,0
+43.677428,-79.577968,2021,7,2,19,,,,,,,Yes,,Yes,,Yes,Yes,Expressway Ramp,Etobicoke York,No Control,Clear,Dry,Daylight,South,Non Intersection,D23,1
+43.720492,-79.338863,2013,9,0,13,,,,,,Yes,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,,D55,0
+43.651286,-79.47549,2017,5,3,14,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,Intersection Related,D11,0
+43.76734,-79.190624,2021,6,5,21,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",East,At Intersection,D43,0
+43.679778,-79.46564,2014,9,0,11,,,,,,,,,,,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,At Intersection,D12,0
+43.649045,-79.35619,2011,4,5,18,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D51,1
+43.645845,-79.38629,2010,5,3,16,,,,,,,,,Yes,,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D52,1
+43.755945,-79.52429,2013,6,6,12,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D31,0
+43.720845,-79.24149,2007,11,3,17,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,South,At Intersection,D41,0
+43.727954,-79.513789,2021,5,3,23,,,,,,Yes,,,,,Yes,,Collector,Etobicoke York,Stop Sign,Clear,Dry,"Dark, artificial",East,Intersection Related,D31,0
+43.664845,-79.57319,2011,9,3,20,,,,,,,,,,Yes,Yes,Yes,Local,Etobicoke York,No Control,Clear,Dry,Dark,North,At Intersection,D22,0
+43.678445,-79.34729,2012,9,5,16,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D55,0
+43.685794,-79.481639,2017,8,5,19,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D12,0
+43.754172,-79.619815,2013,9,2,18,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,Stop Sign,Clear,Dry,"Dark, artificial",East,,D23,1
+43.675545,-79.42309,2013,6,3,2,,,,,Yes,,,Yes,,,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D13,0
+43.659022,-79.382076,2019,11,3,14,,,,Yes,,,,,,Yes,Yes,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D51,0
+43.686845,-79.36029,2007,2,3,19,,,,,,,,,,,,Yes,Minor Arterial,Toronto and East York,No Control,Snow,Ice,Dark,West,,D55,0
+43.630045,-79.42419,2006,12,3,6,,Yes,,,,,,,Yes,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D14,0
+43.733945,-79.55789,2007,9,2,15,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,At Intersection,D23,0
+43.716452,-79.261302,2017,12,4,15,,,Yes,,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Snow,Loose Snow,Daylight,East,At Intersection,D41,0
+43.704459,-79.341594,2021,2,4,11,,,,,,,,,Yes,,,Yes,Collector,North York,No Control,Clear,Dry,Daylight,West,At/Near Private Drive,D53,0
+43.814245,-79.23709,2009,1,2,13,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Snow,Wet,Daylight,North,At Intersection,D42,0
+43.811645,-79.15649,2009,12,3,3,,Yes,,,,,Yes,,Yes,,Yes,Yes,Collector,Scarborough,No Control,Snow,Wet,Dark,South,,D42,0
+43.703326,-79.397647,2023,11,1,10,,,,Yes,,,,,,Yes,,,Major Arterial,Etobicoke York,Stop Sign,Clear,Dry,Daylight,North,Intersection Related,D53,1
+43.651545,-79.36709,2011,3,1,8,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D51,0
+43.782229,-79.292499,2018,9,2,20,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D42,1
+43.649382,-79.38914,2021,10,4,14,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D52,0
+43.717654,-79.603442,2018,9,4,17,,,,Yes,,,,,Yes,,,Yes,Local,Etobicoke York,No Control,Rain,Wet,Daylight,South,Non Intersection,D23,0
+43.652239,-79.405978,2021,4,3,18,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D14,0
+43.804583,-79.286739,2022,7,6,16,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,Non Intersection,D42,0
+43.735575,-79.253146,2015,3,3,19,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D41,0
+43.718845,-79.60229,2006,6,6,23,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dark,West,,D23,0
+43.767756,-79.471439,2023,5,5,22,,,,,,Yes,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,"Dark, artificial",West,Intersection Related,D32,1
+43.697398,-79.396449,2014,2,3,14,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D53,0
+43.699385,-79.386318,2013,10,5,10,Yes,,,,,,,,Yes,,,Yes,Local,North York,No Control,Clear,Dry,Daylight,East,,D53,0
+43.794745,-79.41919,2010,10,5,20,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,No Control,Rain,Wet,Dark,East,,D32,0
+43.654345,-79.37879,2011,10,2,2,,,,,,,,,,,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dark,North,,D51,0
+43.603228,-79.506282,2014,1,3,20,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Wet,"Dark, artificial",North,Intersection Related,D22,0
+43.741763,-79.45425,2022,2,3,7,,,,Yes,Yes,,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Wet,Daylight,South,At Intersection,D32,0
+43.732045,-79.58939,2011,2,1,8,,,Yes,,,,,,,Yes,Yes,,Major Arterial,Etobicoke York,Traffic Signal,Snow,Loose Snow,Daylight,East,At Intersection,D23,0
+43.716773,-79.259883,2016,9,0,2,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",South,At Intersection,D41,0
+43.654887,-79.337398,2018,10,2,6,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,"Dark, artificial",North,At Intersection,D55,0
+43.652201,-79.401103,2021,4,2,23,,,Yes,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Intersection Related,D14,1
+43.687472,-79.304965,2018,11,3,18,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,"Dark, artificial",South,At Intersection,D55,0
+43.662445,-79.40479,2011,9,4,16,,,,,,,,Yes,,,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,East,At Intersection,D14,0
+43.759545,-79.59569,2007,5,0,18,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,,D23,0
+43.708245,-79.25009,2010,10,0,20,,Yes,,,,Yes,,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Dark,East,,D41,0
+43.792445,-79.44049,2009,11,1,8,,,,,,,,,,Yes,,Yes,Collector,North York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D32,1
+43.644503,-79.375179,2020,1,0,9,Yes,,,,,,,,,,,Yes,Expressway,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D51,0
+43.691332,-79.340617,2017,9,1,8,,,,Yes,,,,Yes,,,,,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,At Intersection,D55,0
+43.674745,-79.43099,2012,6,1,20,,,Yes,,,,,,,Yes,Yes,,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D13,0
+43.668445,-79.31959,2013,3,4,18,,,,,,,,Yes,,,,Yes,Minor Arterial,Toronto and East York,Stop Sign,Clear,Dry,Dusk,North,At Intersection,D55,0
+43.63988,-79.439822,2021,3,3,11,,,,,,,,,Yes,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Intersection Related,D14,0
+43.684897,-79.472804,2015,10,4,14,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,Intersection Related,D12,1
+43.694045,-79.36629,2012,8,2,19,,,,,,,,Yes,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D53,0
+43.653998,-79.4864,2016,4,5,3,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Other,Other,Dark,North,Non Intersection,D11,1
+43.664496,-79.456554,2018,7,5,5,Yes,,,,,,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dawn, artificial",West,Intersection Related,D11,0
+43.69797,-79.439349,2018,7,3,0,,,,Yes,,,,,,Yes,Yes,,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D13,1
+43.737245,-79.59029,2007,4,6,3,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Snow,Wet,Dark,East,,D23,0
+43.822245,-79.27519,2007,7,5,9,,,,,,,,,,Yes,,Yes,Collector,Scarborough,No Control,Clear,Dry,Daylight,West,,D42,0
+43.744145,-79.51439,2007,7,6,13,,Yes,,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,At Intersection,D31,0
+43.616103,-79.498325,2020,11,4,16,,,,Yes,,,,Yes,,,Yes,,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Dusk,South,At Intersection,D22,1
+43.780945,-79.27089,2012,8,5,23,,,,,,,Yes,,,,Yes,Yes,Local,Scarborough,No Control,Clear,Dry,"Dark, artificial",South,,D42,1
+43.644271,-79.367778,2023,2,2,17,,,,,,,Yes,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,"Dusk, artificial",West,Intersection Related,D51,0
+43.677445,-79.40809,2011,6,6,12,,,,,,,,,Yes,,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,,D53,0
+43.659245,-79.36669,2013,7,5,20,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D51,0
+43.650336,-79.378429,2022,7,5,0,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D51,0
+43.682145,-79.34609,2010,9,4,17,,,Yes,,,,,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,,D55,0
+43.664245,-79.41609,2009,6,4,10,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,,D14,0
+43.829833,-79.280391,2013,11,3,9,,,,,,,,,,,,Yes,Major Arterial,Scarborough,,Other,Other,Daylight,,,D42,0
+43.640776,-79.438091,2016,2,3,22,,,Yes,,,,,,,Yes,,,Local,Toronto and East York,No Control,Clear,Dry,Dark,North,At Intersection,D11,1
+43.734745,-79.29049,2011,12,5,3,,,,,,,,,,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Dark,South,,D41,0
+43.627745,-79.48149,2006,3,0,22,,Yes,,,,,,,Yes,,,Yes,,Etobicoke York,No Control,Clear,Dry,Dark,West,,D22,1
+43.686945,-79.48949,2008,11,0,11,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D12,0
+43.711005,-79.399272,2019,9,1,9,,,,Yes,,,,,,Yes,,,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,At Intersection,D53,1
+43.658145,-79.37239,2006,3,3,17,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Pedestrian Crossover,Clear,Dry,Daylight,West,,D51,0
+43.794886,-79.323169,2017,6,5,14,,,,,,Yes,Yes,,,Yes,Yes,,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,Non Intersection,D42,0
+43.685645,-79.31279,2006,6,6,2,,Yes,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,South,At Intersection,D55,0
+43.780445,-79.30049,2012,8,6,23,,,,,,,,,Yes,Yes,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",West,,D42,0
+43.746245,-79.19879,2009,12,0,19,,Yes,,,,,,,,Yes,Yes,Yes,Collector,Scarborough,No Control,Clear,Dry,Dark,South,At Intersection,D43,0
+43.814545,-79.29219,2009,2,1,6,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D42,0
+43.648554,-79.397273,2013,6,6,3,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",Unknown,,D14,0
+43.775824,-79.343715,2012,10,3,21,,,,,,,,Yes,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Dark,West,At Intersection,D33,0
+43.674645,-79.43179,2008,3,0,22,,,,,,,Yes,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dark,East,,D13,0
+43.672118,-79.593257,2021,2,0,12,,,,,Yes,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,NSA,0
+43.809145,-79.22169,2009,11,4,14,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D42,0
+43.780528,-79.446277,2018,10,5,16,,,,,,,Yes,,,,Yes,Yes,Collector,North York,No Control,Clear,Dry,Daylight,North,Intersection Related,D32,0
+43.765945,-79.41209,2008,7,6,3,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Rain,Wet,Dark,South,,D32,0
+43.64173,-79.380687,2021,6,2,19,,,,,,Yes,Yes,,,,Yes,,Expressway,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D52,0
+43.742179,-79.595989,2016,5,2,4,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D23,0
+43.743645,-79.60389,2007,5,6,10,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Controller,Clear,Dry,Daylight,East,At Intersection,D23,0
+43.646239,-79.377826,2017,1,4,14,,,,,,,,Yes,,,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D52,0
+43.648845,-79.54899,2010,3,0,20,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D22,0
+43.653937,-79.486369,2021,11,1,17,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,No Control,Clear,Wet,Dark,North,At Intersection,D11,0
+43.731845,-79.30559,2009,9,4,20,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D41,1
+43.650729,-79.347492,2021,10,3,7,,,,,,,Yes,,,,Yes,Yes,Expressway,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D51,0
+43.79959,-79.201328,2023,6,1,13,,,,,,,,,,Yes,,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,Non Intersection,D42,0
+43.687645,-79.39389,2006,7,4,14,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D53,0
+43.686145,-79.31069,2007,3,5,3,,,,,,,,,Yes,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Ice,Dark,East,,D55,0
+43.654645,-79.38579,2012,7,1,17,,,,,,,,Yes,,,,Yes,Collector,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D52,0
+43.716109,-79.282733,2016,11,1,6,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Wet,"Dark, artificial",East,At Intersection,D41,0
+43.671245,-79.37639,2012,6,1,6,,,Yes,,,,,,Yes,,,,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D51,0
+43.691493,-79.287105,2013,7,2,6,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,South,,D41,0
+43.640545,-79.42799,2006,11,2,16,,,,,,,,,,Yes,Yes,,Minor Arterial,Toronto and East York,Pedestrian Crossover,Clear,Dry,Daylight,South,,D14,0
+43.801945,-79.31369,2009,11,3,15,,,,,,,,,Yes,,Yes,Yes,Collector,Scarborough,Stop Sign,Clear,Dry,Daylight,East,,D42,0
+43.763743,-79.577289,2013,8,5,3,,Yes,,,,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",East,,D31,1
+43.755245,-79.44149,2009,2,0,16,,,,,,,,,,Yes,,Yes,Local,North York,No Control,Clear,Dry,Daylight,East,,D32,0
+43.700984,-79.425548,2015,11,4,5,,,,Yes,Yes,,,,,Yes,Yes,,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D13,1
+43.651545,-79.60309,2010,6,1,8,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D22,0
+43.717645,-79.33409,2011,2,6,13,,,,,,,,,Yes,,Yes,Yes,Collector,North York,No Control,Clear,Dry,Daylight,East,,D55,0
+43.648146,-79.38219,2013,10,2,7,,,,,,,Yes,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D52,0
+43.645659,-79.400592,2016,12,4,2,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",North,Intersection Related,D14,0
+43.711131,-79.535136,2022,1,5,23,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",North,Intersection Related,D12,1
+43.639045,-79.54779,2009,12,3,20,,,,,Yes,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Dark,South,,D22,0
+43.660464,-79.583576,2014,5,3,21,,,,,,Yes,Yes,,,,Yes,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,"Dusk, artificial",South,,D22,1
+43.63674,-79.471339,2021,4,1,12,,,Yes,,,,,,Yes,,,,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,Non Intersection,D11,0
+43.807952,-79.234142,2020,5,1,21,,,,,,Yes,,,,,,,Minor Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",North,At Intersection,D42,1
+43.669036,-79.336017,2016,9,1,20,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D55,0
+43.743579,-79.491809,2022,6,0,18,,,,,,Yes,Yes,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D31,1
+43.692045,-79.50279,2012,4,2,11,,,,,,,,,Yes,,Yes,Yes,Minor Arterial,Etobicoke York,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D12,0
+43.66788,-79.428111,2018,2,3,9,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Wet,Daylight,West,At Intersection,D14,0
+43.639426,-79.442485,2013,8,4,18,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D14,1
+43.698245,-79.43839,2008,9,5,11,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,,D13,0
+43.730326,-79.468089,2013,10,0,20,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,"Dark, artificial",South,,D32,0
+43.68389,-79.511417,2018,8,5,14,,,,,,,,,Yes,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D22,0
+43.671546,-79.448291,2012,11,4,6,,,,,Yes,,,Yes,,,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D13,1
+43.711005,-79.399272,2017,4,6,20,,,,,,Yes,,,Yes,,Yes,Yes,Major Arterial,North York,Traffic Controller,Clear,Dry,Dusk,South,At Intersection,D53,0
+43.816245,-79.31449,2006,3,3,9,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D42,0
+43.748045,-79.44969,2010,3,2,9,,,,,,,,,,Yes,Yes,Yes,Collector,North York,Pedestrian Crossover,Clear,Dry,Daylight,North,,D32,0
+43.764545,-79.31819,2006,7,2,21,,,,,,Yes,,,,,Yes,Yes,Major Arterial,North York,Stop Sign,Clear,Dry,Dark,North,At Intersection,D33,0
+43.701845,-79.33679,2007,1,0,14,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Rain,Slush,Daylight,South,,D55,0
+43.648451,-79.377605,2018,1,0,16,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,No Control,Snow,Loose Snow,Daylight,East,Intersection Related,D51,0
+43.680033,-79.338893,2021,4,5,5,,,Yes,,,,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D55,0
+43.634429,-79.408733,2015,10,0,14,Yes,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D14,0
+43.673045,-79.46499,2009,10,1,11,,,,Yes,,,,Yes,,,,,Major Arterial,Toronto and East York,Traffic Controller,Clear,Dry,Daylight,North,,D11,0
+43.640445,-79.43729,2006,8,1,10,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,North,At Intersection,D14,0
+43.705756,-79.349002,2013,8,5,14,,,,,,Yes,,,,,,,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,,D53,0
+43.782845,-79.40149,2008,1,3,17,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Snow,Wet,Dark,West,At Intersection,D32,0
+43.819625,-79.221034,2017,5,5,23,,,,,,,Yes,,,,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D42,0
+43.66247,-79.470783,2018,6,1,17,,,,,,,Yes,,,,Yes,Yes,Minor Arterial,Etobicoke York,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D11,0
+43.652877,-79.485935,2016,9,1,17,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Pedestrian Crossover,Clear,Dry,Daylight,South,At Intersection,D11,0
+43.774005,-79.351894,2014,12,3,11,,,,,,,,,,,,Yes,Major Arterial,North York,No Control,Snow,Packed Snow,Daylight,West,Non Intersection,D33,0
+43.649745,-79.433688,2013,2,2,10,,,,Yes,,,,,,Yes,,,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D11,1
+43.756945,-79.51939,2011,11,5,19,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",East,,D31,0
+43.76697,-79.192462,2023,1,0,18,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Rain,Wet,Dark,East,Non Intersection,D43,0
+43.769445,-79.28229,2006,1,0,14,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D41,1
+43.719545,-79.28419,2010,6,5,19,,Yes,,,,Yes,,,,,Yes,Yes,Major Arterial,Scarborough,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D41,0
+43.718945,-79.42969,2006,9,3,14,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,,D53,0
+43.72465,-79.302608,2017,5,5,5,,,,,,,,,Yes,,Yes,Yes,Major Arterial,North York,Traffic Controller,Clear,Dry,Dawn,East,At Intersection,D41,0
+43.648657,-79.37112,2018,2,4,11,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Snow,Loose Snow,Daylight,East,Non Intersection,D51,0
+43.693745,-79.42259,2006,2,3,13,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D13,0
+43.670024,-79.413135,2013,12,2,11,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D14,0
+43.726569,-79.482028,2020,4,3,10,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D31,0
+43.648845,-79.37939,2006,12,3,18,,,,,,,Yes,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Dark,West,,D52,0
+43.670545,-79.45449,2010,2,2,15,,,,,,,,,Yes,,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D11,0
+43.668101,-79.369525,2016,8,1,9,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Daylight,East,At Intersection,D51,0
+43.732089,-79.432658,2023,1,0,23,,,Yes,,,,,,Yes,,Yes,Yes,Major Arterial,North York,Stop Sign,Clear,Wet,"Dark, artificial",West,At Intersection,D32,0
+43.678321,-79.464778,2019,12,0,6,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Wet,Dawn,West,At Intersection,D12,0
+43.795184,-79.237384,2016,6,0,13,,,,,,,,Yes,,,Yes,Yes,Local,Scarborough,No Control,Clear,Dry,Daylight,West,Intersection Related,D42,0
+43.669436,-79.334415,2020,10,0,16,,,,,,Yes,,,,,,,Minor Arterial,Toronto and East York,No Control,Rain,Wet,"Daylight, artificial",West,Non Intersection,D55,0
+43.704482,-79.405879,2021,10,0,12,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,South,Non Intersection,D53,0
+43.683145,-79.54049,2009,1,2,13,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D23,0
+43.659789,-79.399905,2017,8,0,16,,,,,,,Yes,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,At Intersection,D52,0
+43.773745,-79.41399,2006,10,0,19,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D32,0
+43.786645,-79.27299,2009,3,1,18,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Dawn,West,,D42,0
+43.744338,-79.299014,2014,11,1,18,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D41,0
+43.686245,-79.43189,2006,7,1,18,,,,,,,,Yes,,,,Yes,Local,Toronto and East York,No Control,Clear,Dry,Daylight,South,,D13,0
+43.654145,-79.36569,2012,11,1,4,,,,Yes,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Dark,West,,D51,0
+43.712565,-79.369647,2012,11,4,19,,,,,Yes,,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,"Dusk, artificial",South,At Intersection,D53,0
+43.723941,-79.407329,2021,10,1,13,,,Yes,,,,,,,Yes,,,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,Non Intersection,D53,0
+43.779645,-79.25119,2011,7,4,14,,,,,,,,,Yes,,Yes,Yes,Collector,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D43,0
+43.741286,-79.303851,2016,6,5,15,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,North,Non Intersection,D41,0
+43.776445,-79.43029,2008,5,3,14,,,,,,,,,Yes,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,"Daylight, artificial",West,At Intersection,D32,0
+43.706046,-79.361781,2018,6,5,15,,,,,,,,Yes,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,North,Intersection Related,D53,0
+43.762845,-79.25859,2012,12,0,20,,,,,,,,,Yes,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",North,,D43,0
+43.736745,-79.59169,2012,7,6,19,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D23,0
+43.781645,-79.49399,2006,10,1,17,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,West,,D31,0
+43.648545,-79.39739,2009,6,0,15,,,,,,Yes,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Wet,Daylight,West,,D14,0
+43.799245,-79.41449,2008,10,5,9,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Other,Daylight,South,,D32,0
+43.651297,-79.410907,2013,8,3,16,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,East,,D14,0
+43.640677,-79.401378,2018,9,6,3,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",South,At Intersection,D14,0
+43.783492,-79.433727,2020,6,5,22,,,,,,,,,,,,Yes,Minor Arterial,North York,No Control,Rain,Wet,Dark,West,At Intersection,D32,0
+43.648303,-79.485736,2015,8,3,13,,,,,,,,Yes,Yes,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Daylight,East,At Intersection,D11,0
+43.790045,-79.35519,2012,1,4,22,,,,,,,,,,,,Yes,Collector,North York,No Control,Snow,Packed Snow,Dark,West,,D33,1
+43.705386,-79.312824,2015,5,1,18,,,,,Yes,,,,Yes,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,Intersection Related,D55,0
+43.735778,-79.252017,2017,9,3,15,,,,Yes,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,At Intersection,D41,0
+43.698291,-79.396632,2013,11,0,20,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dawn, artificial",South,,D53,0
+43.743109,-79.218875,2016,5,1,5,,,,Yes,,,,,,Yes,,,Major Arterial,Scarborough,No Control,Clear,Dry,Dawn,North,Intersection Related,D43,0
+43.686984,-79.48952,2013,10,4,18,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,,D12,0
+43.663345,-79.34109,2013,3,3,20,,,,,,,,,Yes,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",West,At Intersection,D55,0
+43.636473,-79.399638,2012,10,3,21,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,"Dark, artificial",West,At Intersection,D14,0
+43.648242,-79.485713,2018,5,3,7,,,,Yes,,,,,,Yes,,,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D11,0
+43.671645,-79.493686,2013,4,1,18,,,,,,,,Yes,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D12,0
+43.690945,-79.47149,2008,6,4,7,,,,,,Yes,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D12,0
+43.777745,-79.26099,2008,6,4,15,Yes,,,,,,,,,,,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,,D43,0
+43.760237,-79.503604,2016,2,5,10,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,Non Intersection,D31,1
+43.654545,-79.36399,2006,7,5,6,,,Yes,,Yes,,,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D51,0
+43.739615,-79.605655,2014,1,3,10,Yes,,,,,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,Non Intersection,D23,0
+43.676394,-79.449786,2020,9,5,21,,,Yes,,,,,,,Yes,,,Local,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",West,Intersection Related,D13,0
+43.675387,-79.454189,2022,7,4,18,,,Yes,,,,,,,Yes,Yes,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D13,0
+43.641997,-79.379878,2022,7,0,7,,,,Yes,,,,,,,Yes,Yes,Expressway,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D52,0
+43.728125,-79.574649,2014,2,1,12,,Yes,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D23,0
+43.680145,-79.43299,2008,8,1,7,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D13,0
+43.673525,-79.349963,2021,11,2,18,,,,Yes,,,,,,Yes,,,Local,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D55,0
+43.676645,-79.50229,2008,6,3,22,,,,,,Yes,,,,,,,Local,Etobicoke York,No Control,Clear,Dry,Dark,East,,D12,0
+43.650122,-79.389713,2017,9,5,12,,,,,,Yes,,,,,,Yes,Major Arterial,Toronto and East York,Traffic Controller,Clear,Dry,Daylight,South,At Intersection,D52,0
+43.724959,-79.300533,2014,9,0,20,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Rain,Wet,"Dark, artificial",South,At Intersection,D41,0
+43.753958,-79.532718,2022,4,1,12,,,,Yes,,,,,,Yes,,,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,Non Intersection,D31,1
+43.688643,-79.36375,2017,6,1,8,,,,,,Yes,,,,,,,Major Arterial,North York,No Control,Rain,Wet,Daylight,South,Non Intersection,D53,0
+43.703574,-79.452411,2015,12,1,18,,,,Yes,,,,,,Yes,Yes,,Major Arterial,North York,No Control,Clear,Dry,"Dark, artificial",South,At Intersection,D13,0
+43.618245,-79.52439,2006,1,6,20,,,,,,,,,,Yes,,Yes,,Etobicoke York,No Control,Rain,Wet,Dark,West,,D22,1
+43.647645,-79.42089,2008,1,0,11,,,,,,,,,,,,Yes,Local,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D14,0
+43.694426,-79.449741,2015,8,5,21,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",North,At Intersection,D13,0
+43.694827,-79.532131,2015,10,1,11,Yes,,,,,,,,,,Yes,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,Non Intersection,D23,0
+43.620945,-79.52669,2010,7,5,21,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D22,0
+43.790145,-79.17339,2007,5,0,5,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,South,At Intersection,D43,0
+43.642966,-79.442165,2022,11,6,18,,,,,,,,Yes,,,Yes,Yes,Collector,Toronto and East York,Stop Sign,Clear,Dry,"Dusk, artificial",East,At Intersection,D11,0
+43.656545,-79.39499,2010,10,5,2,,Yes,,,,,Yes,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dark,North,,D52,0
+43.671545,-79.39029,2007,3,1,15,,,,Yes,,,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D53,0
+43.734236,-79.5358,2014,9,6,23,,Yes,,,,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",East,Private Driveway,D31,0
+43.782345,-79.29219,2012,12,3,7,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,,D42,1
+43.699445,-79.47599,2011,5,5,9,Yes,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,,D12,0
+43.637614,-79.447742,2013,11,4,5,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dawn, artificial",East,,D11,1
+43.615878,-79.536365,2017,2,6,3,,,,,,,,,,,,Yes,,Etobicoke York,No Control,Clear,Dry,Dark,West,Non Intersection,D22,0
+43.756415,-79.409595,2018,6,6,17,Yes,,,,,,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,North,Intersection Related,D32,0
+43.638873,-79.508479,2022,11,6,16,,,,,,,Yes,,,,Yes,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,Non Intersection,D22,0
+43.746485,-79.391582,2023,11,6,20,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Pedestrian Crossover,Clear,Dry,"Dark, artificial",East,Intersection Related,D32,0
+43.644133,-79.45827,2020,7,1,18,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Etobicoke York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D11,0
+43.674994,-79.390941,2016,12,6,7,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D53,0
+43.640879,-79.434825,2021,5,6,15,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D14,0
+43.63943,-79.382686,2019,10,3,9,,,,,,Yes,,,,,Yes,Yes,Collector,Toronto and East York,No Control,Clear,Dry,Daylight,South,Intersection Related,D52,0
+43.663325,-79.369693,2018,9,4,16,,,,,,,,,,Yes,,Yes,Laneway,Toronto and East York,No Control,Clear,Dry,Daylight,South,Intersection Related,D51,1
+43.701845,-79.35809,2010,9,3,10,,,,,,,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,East,At Intersection,D53,0
+43.708645,-79.47809,2007,5,4,14,,,,Yes,,,,,,Yes,,,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,,D12,0
+43.661303,-79.357723,2023,8,4,19,,,,,,Yes,,Yes,,,Yes,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D51,0
+43.743289,-79.569011,2015,3,0,12,,,,,,,,,,,,Yes,Local,Etobicoke York,No Control,Clear,Dry,Daylight,North,Non Intersection,D23,0
+43.689555,-79.474803,2018,4,6,17,,,,,,Yes,Yes,,,Yes,Yes,,Major Arterial,North York,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D12,0
+43.725348,-79.41685,2017,10,6,13,,,,,,Yes,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,Intersection Related,D32,0
+43.66873,-79.461681,2018,9,2,15,,,,,,,,,,Yes,Yes,Yes,Collector,Etobicoke York,No Control,Clear,Dry,Daylight,South,Intersection Related,D11,0
+43.689645,-79.39479,2011,10,2,21,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Rain,Wet,Dark,North,,D53,0
+43.691409,-79.500911,2018,9,4,10,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,Intersection Related,D12,0
+43.757712,-79.235263,2015,8,6,0,,Yes,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",South,Intersection Related,D43,1
+43.725945,-79.31939,2008,5,1,20,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Dark,East,,D33,1
+43.682045,-79.47199,2008,1,1,6,,,,,,,,,,Yes,,Yes,Minor Arterial,Etobicoke York,No Control,Snow,Slush,"Dusk, artificial",South,At Intersection,D12,0
+43.636084,-79.567912,2019,8,6,11,,,,,,,,,,Yes,Yes,Yes,Collector,Etobicoke York,No Control,Clear,Dry,Daylight,North,At Intersection,D22,0
+43.726345,-79.43439,2006,12,6,13,,,,,,,,,,,,Yes,Collector,North York,No Control,Clear,Dry,Daylight,East,,D32,0
+43.799345,-79.33759,2007,4,4,22,,,,,,,,,,Yes,,Yes,Collector,North York,No Control,Clear,Dry,Dark,East,,D33,0
+43.638129,-79.58546,2023,2,2,2,,,,,,,,,,Yes,,Yes,,,No Control,Clear,Wet,"Dark, artificial",East,Non Intersection,D22,0
+43.691519,-79.570796,2019,12,5,17,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D23,0
+43.656345,-79.38089,2010,7,0,19,,,,,,,,Yes,,,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,,D51,0
+43.647261,-79.379688,2018,9,0,12,,,Yes,,,,,Yes,,,Yes,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D52,0
+43.779545,-79.23299,2009,9,3,15,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,,D43,0
+43.69625,-79.447673,2014,1,6,21,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Wet,"Dark, artificial",West,At Intersection,D13,1
+43.662154,-79.57648,2020,5,4,20,,,,,,,Yes,,,,Yes,Yes,Collector,Etobicoke York,No Control,Clear,Dry,Daylight,East,At Intersection,D22,0
+43.66474,-79.355136,2017,6,3,15,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D55,0
+43.742145,-79.30979,2012,12,0,6,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,"Dawn, artificial",North,At Intersection,D41,0
+43.725703,-79.39442,2015,7,1,21,,,,,,,,,,Yes,Yes,Yes,Local,North York,Stop Sign,Other,Other,"Dark, artificial",West,,D53,1
+43.649045,-79.39089,2012,6,6,0,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",West,,D52,0
+43.760545,-79.23319,2010,7,4,21,,,,,,,,,,,Yes,Yes,Local,Scarborough,No Control,Clear,Dry,Dark,South,,D43,0
+43.790942,-79.418277,2017,9,6,0,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,"Dark, artificial",North,Non Intersection,D32,0
+43.669545,-79.41299,2011,8,1,15,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,,D14,0
+43.726927,-79.291408,2015,12,0,12,,,,,,,,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,At/Near Private Drive,D41,0
+43.646311,-79.384059,2021,10,4,19,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D52,0
+43.726645,-79.35879,2012,6,5,12,,,,,,,,Yes,,,,Yes,Local,North York,No Control,Clear,Dry,Daylight,North,,D33,0
+43.603245,-79.50389,2009,3,4,19,,,,,,Yes,,,,,,,Local,Etobicoke York,No Control,Clear,Dry,Daylight,West,,D22,0
+43.757003,-79.519115,2019,7,4,19,,,,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,At/Near Private Drive,D31,0
+43.702145,-79.39739,2011,2,2,14,,,,,,,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D53,0
+43.679274,-79.525287,2014,6,5,18,,,,,,,,,Yes,,Yes,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D22,0
+43.751545,-79.26509,2006,8,3,3,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D41,0
+43.683394,-79.323482,2017,6,4,15,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,Intersection Related,D55,0
+43.692145,-79.29709,2010,4,4,17,,,,,,,,,Yes,,Yes,Yes,Minor Arterial,Toronto and East York,Pedestrian Crossover,Clear,Dry,Daylight,South,At Intersection,D55,0
+43.753077,-79.308605,2019,6,1,8,,,,,,Yes,,,,,,Yes,Minor Arterial,Scarborough,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D41,0
+43.689574,-79.560512,2023,1,5,12,Yes,,,,,,,,Yes,,,Yes,,,No Control,Clear,Dry,Daylight,North,Non Intersection,D23,0
+43.682143,-79.471561,2023,6,6,17,,,,,,Yes,,,,,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,Intersection Related,D12,0
+43.641585,-79.349551,2023,12,5,3,,,,,,,,,Yes,,,Yes,Collector,Toronto and East York,No Control,Rain,Wet,"Dark, artificial",South,Non Intersection,NSA,1
+43.734027,-79.609866,2017,8,2,8,,,Yes,,,,,,Yes,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,Intersection Related,D23,0
+43.664591,-79.355953,2014,3,2,6,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dark,South,Non Intersection,D55,0
+43.700686,-79.451724,2018,9,3,16,,,,,,,,,,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D13,1
+43.766845,-79.46649,2007,2,4,13,,,,,,,,,,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,,D32,0
+43.650893,-79.58118,2020,5,5,17,,,,,,Yes,Yes,,,,Yes,,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,West,At Intersection,D22,0
+43.718645,-79.35039,2006,9,5,20,,,,,,,,,Yes,,Yes,Yes,Major Arterial,North York,Stop Sign,Clear,Dry,Dark,South,,D33,0
+43.797945,-79.42009,2007,5,3,0,,,,,,,,,Yes,,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Dark,North,At Intersection,D32,0
+43.688245,-79.56939,2008,10,2,21,,,,,Yes,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,North,,D23,0
+43.65557,-79.487056,2023,2,0,14,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,Intersection Related,D11,0
+43.649345,-79.34319,2010,7,1,10,,,,Yes,,,,,,,,,Collector,Toronto and East York,No Control,Clear,Dry,Daylight,West,At Intersection,D55,0
+43.700851,-79.397136,2022,12,6,15,,,,,,Yes,,,Yes,,Yes,Yes,,,Stop Sign,Clear,Dry,Daylight,East,Intersection Related,D53,0
+43.654845,-79.37649,2012,10,1,18,,,,,,,,Yes,,,,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",East,At Intersection,D51,0
+43.65729,-79.509113,2014,3,3,7,,,,,,,,,,,,Yes,Collector,Etobicoke York,No Control,Snow,Slush,Daylight,South,,D22,1
+43.798701,-79.261974,2022,10,3,19,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Dark,East,Non Intersection,D42,0
+43.781314,-79.325847,2015,10,0,17,Yes,,,,,,,,Yes,,,Yes,Major Arterial,North York,No Control,Clear,Dry,"Dark, artificial",South,Non Intersection,D42,0
+43.758113,-79.233043,2021,5,5,13,,,,,,Yes,,,Yes,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,Intersection Related,D43,0
+43.665045,-79.411586,2006,8,5,18,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D14,0
+43.726172,-79.535579,2021,10,6,3,,,,,,,,,,,Yes,Yes,Major Arterial,North York,No Control,Clear,Wet,"Dark, artificial",South,Non Intersection,D31,0
+43.649645,-79.45039,2007,12,3,17,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dark,North,At Intersection,D11,0
+43.775,-79.343349,2021,6,5,10,,,,,,,,,,Yes,Yes,Yes,Collector,North York,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D33,0
+43.789645,-79.25879,2009,4,0,23,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D42,0
+43.710945,-79.33479,2007,11,4,9,,,Yes,,,,,,,Yes,,,Major Arterial,North York,No Control,Clear,Wet,Daylight,South,,D55,1
+43.741945,-79.59419,2007,7,1,22,,,,,Yes,,Yes,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,South,At Intersection,D23,0
+43.654452,-79.369418,2017,2,4,10,,,Yes,,,,,,,Yes,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D51,0
+43.636386,-79.399608,2021,8,6,0,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D14,0
+43.777014,-79.315486,2014,12,6,18,,,,Yes,,,,,Yes,Yes,,,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D42,1
+43.733545,-79.48369,2013,4,2,14,,,,,,,Yes,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Daylight,North,At Intersection,D31,0
+43.738145,-79.56569,2008,11,6,19,,,,,,,,Yes,,,,Yes,Major Arterial,Etobicoke York,Stop Sign,Clear,Dry,Dark,West,At Intersection,D23,0
+43.737645,-79.24369,2008,1,5,18,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Rain,Wet,Dark,East,,D43,1
+43.772845,-79.44819,2010,11,2,18,,,,,,,,,Yes,Yes,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D32,0
+43.744139,-79.406711,2012,11,4,11,,,,,,,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D32,0
+43.770045,-79.26129,2009,11,0,21,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D43,0
+43.631345,-79.57679,2013,6,3,12,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,,D22,0
+43.657199,-79.404063,2011,10,0,8,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D14,0
+43.758155,-79.410083,2020,8,5,14,,,,,,Yes,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D32,0
+43.653227,-79.341464,2020,8,1,21,,,,,,Yes,Yes,,,,Yes,Yes,Expressway,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D55,0
+43.683455,-79.400165,2018,9,4,17,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,North,At Intersection,D53,0
+43.715245,-79.44839,2006,9,3,18,,,,,,Yes,,,,,,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D32,0
+43.753421,-79.357456,2018,11,2,11,,,,Yes,,,,,,Yes,Yes,,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D33,0
+43.664945,-79.46439,2009,6,2,17,,,,Yes,,,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,North,,D11,1
+43.673464,-79.463008,2018,10,0,5,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",West,At Intersection,D11,0
+43.665345,-79.46459,2009,8,6,2,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Other,Dry,Dark,North,At Intersection,D11,0
+43.621298,-79.524844,2019,10,3,22,,,,,,Yes,,,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D22,0
+43.626292,-79.528835,2015,7,0,0,,,,,,Yes,Yes,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",South,Intersection Related,D22,1
+43.686245,-79.49239,2008,2,1,23,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Freezing Rain,Slush,Dark,East,,D12,0
+43.683745,-79.49859,2011,2,0,11,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,,D12,0
+43.698345,-79.46229,2007,6,4,21,,,,,,,Yes,,Yes,,Yes,Yes,Collector,North York,No Control,Clear,Dry,Dark,West,At Intersection,D13,0
+43.706267,-79.251254,2017,6,5,11,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D41,1
+43.711875,-79.565456,2022,7,6,22,,Yes,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,No Control,Rain,Wet,"Dark, artificial",East,Non Intersection,D23,0
+43.722644,-79.235164,2021,9,6,22,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",West,Intersection Related,D43,0
+43.648947,-79.355068,2022,9,6,1,,,,,,Yes,Yes,,Yes,,Yes,,Expressway,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D51,0
+43.755845,-79.34699,2009,2,5,20,Yes,,,,,,,,,,,Yes,Major Arterial,North York,Traffic Signal,Snow,Loose Snow,Dark,East,At Intersection,D33,0
+43.675101,-79.391025,2014,11,4,22,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D53,0
+43.745745,-79.20959,2006,4,4,15,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Rain,Wet,Daylight,East,,D43,0
+43.618045,-79.52449,2011,7,1,7,,,,,,,Yes,,,,Yes,Yes,,Etobicoke York,No Control,Clear,Dry,Daylight,East,,D22,0
+43.809523,-79.243236,2020,12,5,17,,,,Yes,,,,,,Yes,,,Major Arterial,Scarborough,No Control,Clear,Dry,"Dusk, artificial",East,Non Intersection,D42,1
+43.670145,-79.36019,2012,3,5,10,,,,,,,,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Wet,Daylight,East,At Intersection,D51,0
+43.720845,-79.24149,2010,5,5,17,,,,,,,,,,Yes,,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,,D41,0
+43.775233,-79.389972,2015,7,3,14,,,,,,,,,,,,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,North,Non Intersection,D33,0
+43.671045,-79.45109,2010,7,3,20,,,,,,,,Yes,,,,,Minor Arterial,Toronto and East York,Traffic Controller,Clear,Dry,Dusk,South,At Intersection,D13,0
+43.768756,-79.520358,2017,8,6,2,,Yes,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D31,0
+43.693845,-79.33849,2011,8,4,9,,,,,,,,Yes,,,Yes,Yes,Collector,Toronto and East York,Stop Sign,Clear,Dry,Daylight,South,At Intersection,D55,1
+43.665461,-79.469447,2014,6,6,18,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D11,0
+43.676676,-79.495929,2016,8,2,18,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,North,Non Intersection,D12,0
+43.743245,-79.58199,2011,10,5,20,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dark,West,,D23,0
+43.775145,-79.41439,2008,8,4,18,,,,,,,,,Yes,Yes,,Yes,Major Arterial,North York,No Control,Clear,Wet,Daylight,East,,D32,0
+43.678245,-79.34849,2013,5,3,18,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D55,0
+43.781045,-79.29809,2010,10,0,20,,,,,,,,,Yes,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D42,0
+43.711345,-79.43269,2008,3,3,13,,,,,,,,,,,,Yes,Minor Arterial,North York,Stop Sign,Clear,Dry,Daylight,North,At Intersection,D13,0
+43.779563,-79.345691,2019,8,5,12,,,,,,,,,,Yes,,Yes,Minor Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D33,0
+43.697045,-79.54669,2008,2,2,14,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D23,0
+43.649577,-79.431415,2017,4,1,8,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Daylight,South,At Intersection,D14,0
+43.650745,-79.47819,2012,6,4,18,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,North,At Intersection,D11,0
+43.713545,-79.30649,2012,5,1,8,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,,D55,0
+43.690245,-79.48349,2009,3,1,18,,,,,,,,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,At Intersection,D12,0
+43.809508,-79.267261,2019,1,5,2,,Yes,,,,,,,,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",North,Non Intersection,D42,0
+43.726092,-79.349811,2014,7,3,7,,,,,,,,,,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,Non Intersection,D33,0
+43.741845,-79.45429,2009,3,5,4,,,,,,,,,,,,Yes,Major Arterial,North York,Traffic Signal,Clear,Wet,Dark,North,At Intersection,D32,1
+43.696154,-79.532726,2013,8,0,7,,,,,Yes,,Yes,,Yes,,Yes,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,,D23,1
+43.659045,-79.38209,2012,11,1,8,,,,Yes,,,,Yes,,,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D51,0
+43.746745,-79.583759,2018,2,2,15,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D23,0
+43.753611,-79.587085,2015,7,4,23,,Yes,Yes,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,North,Non Intersection,D23,0
+43.702745,-79.31559,2012,5,0,15,Yes,,,,,,Yes,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D55,0
+43.654635,-79.460002,2019,6,5,15,,,,,,,,Yes,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D11,0
+43.655715,-79.380611,2023,4,4,12,,,,,,,,,,Yes,,,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,,Intersection Related,D51,0
+43.741245,-79.58109,2006,10,1,10,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Pedestrian Crossover,Clear,Wet,Daylight,South,,D23,0
+43.750331,-79.244403,2017,5,6,22,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",North,Intersection Related,D43,0
+43.604193,-79.533695,2023,7,1,13,,,,,,,,,,Yes,,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,Intersection Related,D22,1
+43.668646,-79.394099,2021,8,2,18,,,,Yes,,,,Yes,,,Yes,,Major Arterial,North York,No Control,Clear,Dry,Daylight,North,Non Intersection,D52,1
+43.634945,-79.43529,2010,11,6,4,,,,,,,,,,,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Dark,,,D14,0
+43.801445,-79.31869,2010,8,4,8,,,,Yes,,,,,,Yes,,,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D42,0
+43.704645,-79.28869,2010,2,3,0,,,,,,,Yes,,Yes,,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Wet,Dark,South,At Intersection,D41,1
+43.606276,-79.490588,2022,4,1,20,,,,,,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",East,Non Intersection,D22,0
+43.658345,-79.33899,2008,3,3,0,,,,,Yes,,Yes,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D55,0
+43.783445,-79.26639,2009,12,1,17,,,,,,,,,Yes,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Dark,East,At Intersection,D42,0
+43.711646,-79.282314,2016,10,4,10,,,,,,,,,,,,Yes,Major Arterial,Scarborough,No Control,Rain,Wet,"Daylight, artificial",West,Non Intersection,D41,0
+43.658103,-79.386379,2018,7,1,15,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D52,0
+43.686145,-79.59529,2007,10,6,2,,Yes,,,,,,,Yes,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dark,West,,D23,0
+43.643445,-79.39129,2009,3,2,21,,,,Yes,,,,,,Yes,Yes,,Minor Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Dark,South,At Intersection,D52,1
+43.757689,-79.409946,2017,7,1,7,,,,Yes,,,,Yes,,,,,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,Non Intersection,D32,0
+43.789603,-79.413997,2016,2,2,9,,,,,,,,,,Yes,Yes,Yes,Local,North York,Stop Sign,Clear,Wet,Daylight,East,,D32,1
+43.801445,-79.14229,2011,11,4,15,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,At Intersection,D42,0
+43.69131,-79.500865,2023,3,5,22,,,,,,,,,,Yes,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Wet,"Dark, artificial",,Intersection Related,D12,0
+43.657344,-79.381328,2017,5,5,12,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D51,0
+43.71408,-79.445865,2018,10,2,14,,,,,,,,Yes,,,Yes,Yes,Minor Arterial,North York,No Control,Clear,Dry,Daylight,North,At Intersection,D13,0
+43.748946,-79.277301,2020,12,6,15,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,Non Intersection,D41,0
+43.739318,-79.513179,2016,8,5,13,,,,Yes,,,Yes,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D31,0
+43.686745,-79.59639,2011,11,3,20,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dark,East,,D23,0
+43.655745,-79.38379,2011,1,1,11,,,,,,,,,Yes,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D52,0
+43.646323,-79.416911,2015,6,6,23,,,,,,,,Yes,,,,,Collector,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",North,Non Intersection,D14,0
+43.636445,-79.39959,2006,7,6,18,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D14,0
+43.746645,-79.56669,2006,10,6,19,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Dark,East,,D31,0
+43.775345,-79.25299,2007,8,0,16,,,Yes,,,,,,,Yes,,,Other,Scarborough,No Control,Clear,Dry,Daylight,West,,D43,0
+43.70978,-79.290897,2020,9,5,17,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D41,0
+43.719345,-79.42529,2006,4,1,16,,,,,,,,,Yes,Yes,,Yes,Local,North York,No Control,Clear,Dry,Daylight,East,At Intersection,D53,0
+43.808627,-79.31116,2009,10,5,17,,,,,,,,,,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D42,0
+43.639945,-79.43989,2006,6,5,3,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Dark,East,At Intersection,D14,0
+43.706345,-79.48769,2009,11,3,12,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Daylight,East,At Intersection,D12,0
+43.710445,-79.53489,2011,2,0,20,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,,Other,Other,Dark,,,D12,0
+43.817145,-79.26089,2012,3,4,17,,,,,,,,,,Yes,,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,South,,D42,0
+43.705345,-79.29589,2009,5,5,9,,,,,,,,,,,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Wet,Daylight,North,,D55,0
+43.673464,-79.463008,2020,6,2,11,,,Yes,,,,,,,Yes,,,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D11,0
+43.624072,-79.480487,2021,11,2,18,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Rain,Wet,Dark,East,Intersection Related,D22,0
+43.807944,-79.314189,2012,10,6,3,,Yes,,,,,Yes,,Yes,,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",East,At Intersection,D42,1
+43.688145,-79.41259,2013,2,0,18,,,,,,,,,,Yes,,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",North,,D13,0
+43.682341,-79.328265,2015,12,2,23,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",West,At Intersection,D55,1
+43.656016,-79.565013,2016,11,1,7,,,,,,,,,Yes,Yes,,Yes,Minor Arterial,Etobicoke York,No Control,Rain,Wet,"Dawn, artificial",South,Non Intersection,D22,0
+43.772727,-79.251537,2022,12,4,20,,,,,,,,,,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",South,Non Intersection,D43,0
+43.71091,-79.286075,2013,12,1,18,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",South,Intersection Related,D41,0
+43.803445,-79.17069,2006,1,1,7,,,,,,,,,Yes,Yes,Yes,Yes,Collector,Scarborough,Stop Sign,Clear,Wet,Daylight,South,At Intersection,D42,1
+43.66408,-79.343036,2018,10,3,7,,,,,,,,Yes,,,,Yes,Minor Arterial,Toronto and East York,No Control,Rain,Wet,Dawn,East,Non Intersection,D55,0
+43.674464,-79.327205,2018,11,0,8,,,,,,,,,,Yes,,Yes,Collector,Toronto and East York,Stop Sign,Clear,Dry,Daylight,North,At Intersection,D55,0
+43.670127,-79.360111,2019,3,4,20,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D51,0
+43.739345,-79.51319,2010,12,2,20,Yes,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D31,0
+43.675261,-79.32027,2014,7,2,6,,,,,,,Yes,,,,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D55,0
+43.700545,-79.44969,2013,2,4,21,,,,,,,,,,Yes,,Yes,Collector,North York,No Control,Clear,Dry,Dark,West,,D13,0
+43.659644,-79.382388,2013,5,5,14,,,,,,Yes,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,,D52,1
+43.655223,-79.398967,2023,6,3,16,,,,,,Yes,,,,Yes,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,Non Intersection,D14,0
+43.785762,-79.289424,2023,10,1,20,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,,Rain,Wet,Dark,South,Non Intersection,D42,0
+43.846129,-79.209255,2017,10,0,13,,,,,,,,,,,Yes,Yes,Minor Arterial,Scarborough,Stop Sign,Clear,Dry,Daylight,East,At Intersection,D42,0
+43.721755,-79.274471,2018,12,5,15,,,,,,,Yes,,Yes,,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D41,0
+43.679061,-79.339809,2015,2,0,6,,,,,,,,,Yes,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Pedestrian Crossover,Clear,Wet,"Dark, artificial",North,At Intersection,D55,0
+43.697745,-79.32949,2009,9,4,17,,,,,,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,,D55,0
+43.689445,-79.34879,2012,9,5,0,,Yes,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D55,0
+43.674745,-79.42829,2013,1,5,8,,,,,,,,Yes,,,Yes,Yes,Minor Arterial,Toronto and East York,Pedestrian Crossover,Clear,Wet,Dark,West,At Intersection,D13,0
+43.819945,-79.29809,2010,1,3,17,,,,,,,,,,Yes,Yes,Yes,Collector,Scarborough,Traffic Signal,Clear,Wet,Dark,East,At Intersection,D42,0
+43.659245,-79.44299,2007,5,2,11,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Toronto and East York,Stop Sign,Rain,Wet,Daylight,East,At Intersection,D11,0
+43.785002,-79.312938,2015,7,3,20,,,,,,Yes,Yes,,Yes,,Yes,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,At Intersection,D42,0
+43.686545,-79.59939,2007,2,6,19,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Dark,West,At Intersection,D23,0
+43.740845,-79.34449,2011,2,2,12,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D33,0
+43.770245,-79.54649,2012,5,1,14,,,,Yes,,,,,,Yes,Yes,,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D31,1
+43.715745,-79.53159,2007,1,4,7,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Stop Sign,Clear,Dry,Dark,North,,D31,0
+43.644545,-79.567188,2008,9,5,6,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Dark,West,At Intersection,D22,0
+43.632872,-79.524761,2016,4,1,12,,,,,,,,,,,Yes,Yes,Collector,Etobicoke York,No Control,Clear,Dry,Daylight,West,Non Intersection,D22,0
+43.728224,-79.477031,2022,9,5,21,,,,,,,,Yes,Yes,,Yes,Yes,Major Arterial,,No Control,Clear,Dry,Dark,West,At Intersection,D31,1
+43.641841,-79.401851,2021,4,2,10,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D14,0
+43.769049,-79.303577,2020,9,3,22,,,,,,Yes,,,,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,"Dark, artificial",North,At Intersection,D41,1
+43.603137,-79.538493,2018,4,0,8,,,,,,,,,,Yes,,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,East,At Intersection,D22,0
+43.728415,-79.510494,2023,8,3,22,,,,,,,Yes,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,"Dark, artificial",North,Non Intersection,D31,0
+43.688145,-79.30179,2009,3,2,21,,,,,,,,,Yes,,,Yes,Major Arterial,Toronto and East York,,Other,Other,Dark,,,D55,0
+43.731545,-79.57059,2012,3,2,0,,,,,,,,,,Yes,,Yes,Local,Etobicoke York,No Control,Clear,Dry,Dark,East,,D23,0
+43.650614,-79.442981,2016,9,4,0,,,,,Yes,,,,Yes,,Yes,Yes,Minor Arterial,Toronto and East York,Traffic Signal,Clear,Dry,"Dark, artificial",South,At Intersection,D11,0
+43.734745,-79.39509,2010,5,6,2,,,,,,,,,,Yes,Yes,Yes,Local,North York,No Control,Clear,Dry,Dark,East,,D32,0
+43.804445,-79.22419,2012,3,6,9,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D42,0
+43.674845,-79.40709,2011,1,5,5,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Wet,Dark,South,At Intersection,D53,0
+43.662245,-79.33489,2010,6,2,14,,,,Yes,,,,,,Yes,,,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D55,0
+43.763145,-79.20959,2012,1,1,13,Yes,,,,,,,,Yes,,,Yes,Major Arterial,Scarborough,No Control,Rain,Wet,Daylight,West,,D43,0
+43.768336,-79.186191,2018,5,3,20,,,,,,,,,Yes,Yes,,Yes,Minor Arterial,Scarborough,No Control,Clear,Wet,Daylight,East,Intersection Related,D43,0
+43.836545,-79.25119,2010,6,2,11,,,,,,,,,,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D42,0
+43.613045,-79.55109,2011,7,1,3,,,,,,Yes,,,,,,,,Etobicoke York,No Control,Clear,Dry,Dark,West,,D22,0
+43.677119,-79.446529,2021,2,2,11,,,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Wet,Daylight,West,Non Intersection,D13,0
+43.687686,-79.270885,2017,12,3,15,,Yes,,,Yes,,Yes,,,Yes,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D41,1
+43.716246,-79.443179,2019,12,5,7,,,,,Yes,,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Daylight,West,At Intersection,D13,0
+43.725045,-79.43109,2013,6,3,9,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Daylight,West,At Intersection,D32,0
+43.620642,-79.527904,2016,2,6,1,,Yes,,,,,,,,Yes,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",West,At/Near Private Drive,D22,0
+43.685345,-79.33049,2010,6,3,13,,,,,,,,Yes,,,,Yes,Local,Toronto and East York,No Control,Clear,Dry,Daylight,West,,D55,0
+43.718345,-79.33139,2008,8,4,14,,,,Yes,Yes,,,,Yes,,Yes,Yes,Collector,North York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D55,0
+43.671061,-79.328082,2013,8,4,8,,,,,,,,Yes,,,Yes,Yes,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,,D55,0
+43.757868,-79.333652,2021,10,0,13,,,,,,Yes,Yes,,,,Yes,,Collector,Toronto and East York,No Control,Clear,Dry,Daylight,South,Non Intersection,D33,0
+43.612651,-79.539836,2022,10,6,17,,,,,,Yes,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Stop Sign,Clear,Dry,Daylight,North,At Intersection,D22,0
+43.697045,-79.54669,2011,5,5,17,,,,,,Yes,,,Yes,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Daylight,West,At Intersection,D23,0
+43.697645,-79.38879,2009,8,5,7,,,,,,,,,,,Yes,Yes,Collector,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D53,0
+43.641074,-79.521892,2019,10,4,16,Yes,,,Yes,,,,,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,Non Intersection,D22,1
+43.811145,-79.36079,2010,10,2,7,,,,,Yes,Yes,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Wet,Daylight,North,At Intersection,D33,0
+43.747069,-79.201221,2014,7,6,11,,,,,,Yes,,,,,,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,At/Near Private Drive,D43,0
+43.785345,-79.25649,2007,7,5,12,,,,,,,,,,Yes,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,,D42,0
+43.658259,-79.352199,2019,4,0,8,,,Yes,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Pedestrian Crossover,Clear,Dry,Daylight,East,At Intersection,D55,0
+43.769845,-79.28249,2006,4,1,16,,,,,,Yes,,,,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,South,,D41,0
+43.765837,-79.191051,2018,11,6,14,,,,,,,Yes,,,Yes,Yes,Yes,Collector,Scarborough,No Control,Clear,Dry,"Daylight, artificial",North,Intersection Related,D43,0
+43.696921,-79.263965,2021,10,1,11,,,,,,,,,,Yes,Yes,Yes,Minor Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D41,1
+43.663245,-79.36759,2012,3,4,18,,,,,,Yes,,,,Yes,Yes,,Minor Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,,D51,0
+43.737945,-79.24239,2008,7,4,13,,,,,,,,,,,Yes,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,West,,D43,1
+43.793645,-79.31209,2010,12,2,21,,Yes,,,,,Yes,,,,Yes,Yes,Collector,Scarborough,Pedestrian Crossover,Snow,Wet,Dark,North,,D42,0
+43.717045,-79.58059,2011,6,4,7,,,,Yes,,,,,Yes,,,Yes,Collector,Etobicoke York,No Control,Clear,Dry,Daylight,East,,D23,0
+43.761045,-79.49999,2006,5,6,5,,,,,,,Yes,,,Yes,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dawn, artificial",West,,D31,0
+43.658805,-79.349811,2017,10,0,19,,,,,,,,,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,"Dark, artificial",East,Intersection Related,D55,0
+43.665345,-79.46459,2011,8,2,9,,,,Yes,,,,Yes,,,,,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D11,0
+43.72959,-79.471462,2015,9,2,23,,,,,,Yes,Yes,,Yes,,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,"Dark, artificial",West,At Intersection,D32,1
+43.688145,-79.30179,2010,9,1,10,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Rain,Wet,Daylight,North,At Intersection,D55,0
+43.768347,-79.319797,2016,7,6,13,,,,,,Yes,,Yes,,,,,Major Arterial,North York,No Control,Clear,Dry,Daylight,South,Non Intersection,D33,0
+43.657664,-79.401332,2022,9,3,12,,,,Yes,,,,Yes,,,,,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,Non Intersection,D14,0
+43.682745,-79.46329,2009,5,1,19,,,,,,,,Yes,,,,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Daylight,West,,D12,0
+43.646945,-79.41709,2012,6,0,10,,,,,,,,Yes,,,Yes,Yes,Collector,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,North,At Intersection,D14,0
+43.736575,-79.451885,2023,11,2,0,,,,,,,,,,Yes,,,Minor Arterial,North York,Traffic Signal,Other,Dry,"Dark, artificial",,Intersection Related,D32,0
+43.660145,-79.36629,2013,7,4,18,,,,,,Yes,Yes,,,,Yes,,Minor Arterial,Toronto and East York,No Control,Rain,Wet,Daylight,North,,D51,0
+43.734622,-79.559871,2014,12,2,21,,,,,,,,,,,,Yes,Major Arterial,Etobicoke York,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D23,0
+43.840445,-79.23489,2006,8,3,17,,,,,,,,,,,,Yes,Major Arterial,Scarborough,No Control,Clear,Dry,Daylight,East,,NSA,0
+43.677745,-79.35039,2008,4,3,16,,,,,,,,,,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D55,0
+43.646445,-79.40379,2006,6,5,1,,,,,Yes,,,,Yes,,Yes,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Dark,North,At Intersection,D14,0
+43.659552,-79.355396,2021,1,5,9,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,South,Non Intersection,D51,0
+43.758245,-79.41009,2007,10,1,6,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,Dark,North,At Intersection,D32,0
+43.682185,-79.279201,2016,9,0,16,,,,,,Yes,,,Yes,,Yes,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D41,0
+43.639266,-79.451267,2019,2,0,14,,,,,,,,,Yes,Yes,,Yes,Major Arterial,Toronto and East York,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D11,0
+43.703345,-79.42589,2013,1,4,10,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,,D53,0
+43.780545,-79.40669,2013,8,3,22,,,,,,Yes,Yes,,,,Yes,Yes,Minor Arterial,North York,No Control,Clear,Dry,"Dark, artificial",South,At Intersection,D32,1
+43.811945,-79.35749,2012,2,1,19,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Wet,Dark,South,At Intersection,NSA,0
+43.718421,-79.432933,2015,5,2,16,,,,,Yes,Yes,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,East,At Intersection,D13,0
+43.819645,-79.32439,2013,3,5,12,,,,,,,,Yes,,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,South,,D42,0
+43.722245,-79.30359,2006,12,5,18,,,,,,,,,,Yes,,Yes,Major Arterial,North York,No Control,Rain,Wet,Dark,East,,D55,1
+43.690676,-79.461223,2023,7,2,17,,,,,,,,Yes,,,Yes,Yes,Minor Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,West,Intersection Related,D13,0
+43.724089,-79.336932,2013,9,3,9,,,,,,,,,,,,Yes,Collector,North York,No Control,Clear,Dry,Daylight,West,,D33,0
+43.645774,-79.410747,2018,8,2,2,,,,,,,,,Yes,Yes,,,Major Arterial,Toronto and East York,No Control,Rain,Wet,"Dark, artificial",West,Intersection Related,D14,0
+43.809756,-79.366664,2019,4,1,0,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,No Control,Clear,Dry,Dark,East,Non Intersection,D33,0
+43.681645,-79.41769,2011,10,2,19,,Yes,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,No Control,Rain,Wet,Dark,South,At Intersection,D13,0
+43.823207,-79.263141,2017,6,2,16,,,,,,,,,,Yes,,Yes,Minor Arterial,Scarborough,No Control,Clear,Dry,Daylight,North,At Intersection,D42,0
+43.700087,-79.516155,2016,7,4,6,,,,,,Yes,,,,,Yes,Yes,Major Arterial,Etobicoke York,Traffic Signal,Clear,Dry,"Dawn, artificial",West,At Intersection,D12,0
+43.688647,-79.454875,2018,8,6,14,,,,,,,,Yes,,,,Yes,Local,Etobicoke York,Stop Sign,Clear,Dry,Daylight,North,At Intersection,D13,0
+43.807185,-79.270396,2023,11,5,20,,,,,,Yes,,,,,,,Major Arterial,Scarborough,No Control,Clear,Dry,"Dark, artificial",West,Non Intersection,D42,0
+43.721461,-79.284953,2019,10,5,11,Yes,,,,,,,,,,,Yes,Major Arterial,Scarborough,Traffic Signal,Clear,Dry,Daylight,West,At Intersection,D41,0
+43.682048,-79.46651,2016,9,3,14,,,,,,,,Yes,,,Yes,Yes,Minor Arterial,Etobicoke York,No Control,Clear,Dry,Daylight,South,Intersection Related,D12,0
+43.708145,-79.39149,2012,11,5,13,,,,,,,,,,Yes,Yes,Yes,Major Arterial,Toronto and East York,Stop Sign,Clear,Dry,Daylight,West,At Intersection,D53,0
+43.717787,-79.299754,2017,8,0,9,,,,,,,,,Yes,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,North,Intersection Related,D41,0
+43.661045,-79.38479,2010,6,5,16,,,,,,,,Yes,,,,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,East,,D52,0
+43.786997,-79.417308,2020,3,3,21,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Rain,Wet,"Dark, artificial",South,At Intersection,D32,0
+43.732145,-79.60909,2012,2,2,20,,,,,,,,,,Yes,,Yes,Minor Arterial,Etobicoke York,Traffic Signal,Rain,Wet,Dark,North,At Intersection,D23,0
+43.723145,-79.33009,2012,12,6,16,,,,,,,Yes,,Yes,,Yes,Yes,Major Arterial,North York,No Control,Rain,Wet,"Dark, artificial",South,,D55,0
+43.787345,-79.35299,2006,7,1,16,,,,Yes,Yes,,,,,,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D33,0
+43.789691,-79.174861,2019,10,6,2,,,,,,,Yes,,Yes,,Yes,Yes,Minor Arterial,Scarborough,No Control,Rain,Wet,"Dark, artificial",West,Non Intersection,D43,0
+43.679245,-79.30459,2013,4,2,17,,,,,,,,,,Yes,,Yes,Local,Toronto and East York,Stop Sign,Clear,Dry,Daylight,North,At Intersection,D55,0
+43.612645,-79.49159,2011,4,1,2,,,,,,,,,,Yes,,Yes,Local,Etobicoke York,Stop Sign,Rain,Wet,Dark,Unknown,,D22,0
+43.755445,-79.43849,2013,4,5,8,,,,,,,,,,Yes,Yes,Yes,Major Arterial,North York,Traffic Signal,Clear,Dry,Daylight,South,At Intersection,D32,0
+43.661994,-79.425082,2018,8,3,13,,,,,,,,Yes,,,Yes,Yes,Major Arterial,Toronto and East York,No Control,Clear,Dry,Daylight,West,Non Intersection,D14,0

@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KSI Collision Severity Risk Assessment</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-inner">
+    <h1>KSI Collision Severity Assessment</h1>
+    <p class="masthead-meta">
+      Estimates whether a collision is likely to result in a fatality, based on a model trained on
+      Toronto Police <strong>Killed or Seriously Injured</strong> collision records, 2006&ndash;2023.
+    </p>
+    <div class="masthead-divider"></div>
+  </div>
+</div>
+
+<div class="layout">
+
+  <!-- ============ FORM ============ -->
+  <form class="form-card" id="risk-form">
+
+    <!-- 1. Location -->
+    <fieldset>
+      <legend>Location</legend>
+      <div class="grid">
+        <div class="field">
+          <label for="LATITUDE">Latitude <span class="hint">43.58&ndash;43.86</span></label>
+          <input type="number" id="LATITUDE" step="0.0001" min="43.5" max="43.95" value="43.7000" required>
+        </div>
+        <div class="field">
+          <label for="LONGITUDE">Longitude <span class="hint">&minus;79.64&ndash;&minus;79.12</span></label>
+          <input type="number" id="LONGITUDE" step="0.0001" min="-79.7" max="-79.0" value="-79.4000" required>
+        </div>
+        <div class="field">
+          <label for="DISTRICT">District</label>
+          <select id="DISTRICT">
+            <option>Toronto and East York</option>
+            <option>North York</option>
+            <option>Scarborough</option>
+            <option>Etobicoke York</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="DIVISION">Police Division</label>
+          <select id="DIVISION">
+            <option>D11</option><option>D12</option><option>D13</option><option>D14</option>
+            <option>D22</option><option>D23</option><option>D31</option><option>D32</option>
+            <option>D33</option><option>D41</option><option>D42</option><option>D43</option>
+            <option>D51</option><option>D52</option><option>D53</option><option>D55</option>
+            <option>NSA</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="ROAD_CLASS">Road Class</label>
+          <select id="ROAD_CLASS">
+            <option>Major Arterial</option><option>Minor Arterial</option><option>Collector</option>
+            <option>Local</option><option>Expressway</option><option>Expressway Ramp</option>
+            <option>Laneway</option><option>Major Shoreline</option><option>Other</option><option>Pending</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="ACCLOC">Location Type</label>
+          <select id="ACCLOC">
+            <option>At Intersection</option><option>Intersection Related</option>
+            <option>Non Intersection</option><option>At/Near Private Drive</option>
+            <option>Private Driveway</option><option>Laneway</option>
+            <option>Overpass or Bridge</option><option>Underpass or Tunnel</option>
+            <option>Trail</option><option>Other</option>
+          </select>
+        </div>
+      </div>
+    </fieldset>
+
+    <!-- 2. Time -->
+    <fieldset>
+      <legend>Time</legend>
+      <div class="grid">
+        <div class="field">
+          <label for="YEAR">Year</label>
+          <input type="number" id="YEAR" min="2006" max="2030" value="2024" required>
+        </div>
+        <div class="field">
+          <label for="MONTH">Month</label>
+          <select id="MONTH">
+            <option value="1">January</option><option value="2">February</option><option value="3">March</option>
+            <option value="4">April</option><option value="5">May</option><option value="6">June</option>
+            <option value="7" selected>July</option><option value="8">August</option><option value="9">September</option>
+            <option value="10">October</option><option value="11">November</option><option value="12">December</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="DAY_OF_WEEK">Day of Week</label>
+          <select id="DAY_OF_WEEK">
+            <option value="0">Monday</option><option value="1">Tuesday</option><option value="2">Wednesday</option>
+            <option value="3">Thursday</option><option value="4" selected>Friday</option><option value="5">Saturday</option>
+            <option value="6">Sunday</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="HOUR">Hour <span class="hint">0&ndash;23</span></label>
+          <input type="number" id="HOUR" min="0" max="23" value="17" required>
+        </div>
+      </div>
+    </fieldset>
+
+    <!-- 3. Environment -->
+    <fieldset>
+      <legend>Road &amp; Environment</legend>
+      <div class="grid">
+        <div class="field">
+          <label for="TRAFFCTL">Traffic Control</label>
+          <select id="TRAFFCTL">
+            <option>Traffic Signal</option><option>Stop Sign</option><option>No Control</option>
+            <option>Pedestrian Crossover</option><option>Yield Sign</option><option>Police Control</option>
+            <option>School Guard</option><option>Traffic Controller</option>
+            <option>Streetcar (Stop for)</option><option>Traffic Gate</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="VISIBILITY">Visibility</label>
+          <select id="VISIBILITY">
+            <option>Clear</option><option>Rain</option><option>Snow</option>
+            <option>Freezing Rain</option><option>Fog, Mist, Smoke, Dust</option>
+            <option>Drifting Snow</option><option>Strong wind</option><option>Other</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="RDSFCOND">Road Surface</label>
+          <select id="RDSFCOND">
+            <option>Dry</option><option>Wet</option><option>Loose Snow</option><option>Packed Snow</option>
+            <option>Slush</option><option>Ice</option><option>Loose Sand or Gravel</option>
+            <option>Spilled liquid</option><option>Other</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="LIGHT">Lighting</label>
+          <select id="LIGHT">
+            <option>Daylight</option><option>Dark</option><option>Dark, artificial</option>
+            <option>Dawn</option><option>Dawn, artificial</option><option>Dusk</option>
+            <option>Dusk, artificial</option><option>Daylight, artificial</option><option>Other</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="INITDIR">Initial Direction of Travel</label>
+          <select id="INITDIR">
+            <option>North</option><option>South</option><option>East</option><option>West</option><option>Unknown</option>
+          </select>
+        </div>
+      </div>
+    </fieldset>
+
+    <!-- 4. Contributing factors -->
+    <fieldset>
+      <legend>Contributing Factors</legend>
+      <div class="toggle-grid">
+        <label class="toggle"><input type="checkbox" id="SPEEDING"><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Speeding</span></label>
+        <label class="toggle"><input type="checkbox" id="AG_DRIV"><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Aggressive driving</span></label>
+        <label class="toggle"><input type="checkbox" id="REDLIGHT"><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Ran red light</span></label>
+        <label class="toggle"><input type="checkbox" id="ALCOHOL"><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Alcohol involved</span></label>
+        <label class="toggle"><input type="checkbox" id="DISABILITY"><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Driver disability</span></label>
+      </div>
+    </fieldset>
+
+    <!-- 5. Road users -->
+    <fieldset>
+      <legend>Road Users Involved</legend>
+      <div class="toggle-grid">
+        <label class="toggle"><input type="checkbox" id="PEDESTRIAN"><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Pedestrian</span></label>
+        <label class="toggle"><input type="checkbox" id="CYCLIST"><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Cyclist</span></label>
+        <label class="toggle"><input type="checkbox" id="AUTOMOBILE" checked><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Automobile</span></label>
+        <label class="toggle"><input type="checkbox" id="MOTORCYCLE"><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Motorcycle</span></label>
+        <label class="toggle"><input type="checkbox" id="TRUCK"><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Truck</span></label>
+        <label class="toggle"><input type="checkbox" id="TRSN_CITY_VEH"><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Transit / city vehicle</span></label>
+        <label class="toggle"><input type="checkbox" id="PASSENGER"><span class="box"><svg viewBox="0 0 16 16" fill="none" stroke="white" stroke-width="2.2"><path d="M3 8.5 6.5 12 13 4.5"/></svg></span><span class="label-text">Passenger</span></label>
+      </div>
+    </fieldset>
+
+    <div class="submit-bar">
+      <span class="note">Sends one JSON record to <code>POST /predict</code>, the same endpoint tested via Postman.</span>
+      <button type="submit" class="assess" id="assess-btn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2 3 14h7l-1 8 10-12h-7l1-8z"/></svg>
+        Assess Risk
+      </button>
+    </div>
+  </form>
+
+  <!-- ============ RESULT PANEL ============ -->
+  <div class="result-panel">
+    <div class="result-header">
+      <span class="eyebrow">Model Output</span>
+      <span><span class="status-dot" id="status-dot"></span></span>
+    </div>
+
+    <div class="predicted-line" id="predicted-line">Awaiting input</div>
+
+    <div class="boundary-wrap">
+      <div class="boundary-track">
+        <div class="boundary-center"></div>
+        <div class="boundary-marker" id="boundary-marker"></div>
+      </div>
+      <div class="boundary-ends">
+        <span>Non-Fatal</span>
+        <span class="boundary-boundary-label">Boundary</span>
+        <span>Fatal</span>
+      </div>
+    </div>
+
+    <div class="separation-label" id="separation-label">&mdash;</div>
+    <div class="raw-score-line" id="raw-score-line"></div>
+
+    <div class="error-box" id="error-box"></div>
+
+    <div class="result-detail" id="result-detail" style="display:none">
+      <p class="result-note" id="result-note"></p>
+      <div class="factor-chips" id="factor-chips"></div>
+      <button type="button" class="raw-toggle" id="raw-toggle">View raw response &#9656;</button>
+      <pre class="raw-json" id="raw-json" style="display:none"></pre>
+      <div class="model-line" id="model-line"></div>
+    </div>
+  </div>
+
+</div>
+
+<footer class="note">
+  Course project &middot; demonstration only, not for real road-safety decisions.
+</footer>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,229 @@
+{
+  "numeric_features": [
+    "LATITUDE",
+    "LONGITUDE",
+    "YEAR",
+    "MONTH",
+    "DAY_OF_WEEK",
+    "HOUR"
+  ],
+  "categorical_features": [
+    "DISABILITY",
+    "ALCOHOL",
+    "TRSN_CITY_VEH",
+    "TRUCK",
+    "REDLIGHT",
+    "MOTORCYCLE",
+    "SPEEDING",
+    "CYCLIST",
+    "PASSENGER",
+    "PEDESTRIAN",
+    "AG_DRIV",
+    "AUTOMOBILE",
+    "ROAD_CLASS",
+    "DISTRICT",
+    "TRAFFCTL",
+    "VISIBILITY",
+    "RDSFCOND",
+    "LIGHT",
+    "INITDIR",
+    "ACCLOC",
+    "DIVISION"
+  ],
+  "binary_features": [
+    "DISABILITY",
+    "ALCOHOL",
+    "TRSN_CITY_VEH",
+    "TRUCK",
+    "REDLIGHT",
+    "MOTORCYCLE",
+    "SPEEDING",
+    "CYCLIST",
+    "PASSENGER",
+    "PEDESTRIAN",
+    "AG_DRIV",
+    "AUTOMOBILE"
+  ],
+  "category_options": {
+    "DISABILITY": [
+      "No",
+      "Yes"
+    ],
+    "ALCOHOL": [
+      "No",
+      "Yes"
+    ],
+    "TRSN_CITY_VEH": [
+      "No",
+      "Yes"
+    ],
+    "TRUCK": [
+      "No",
+      "Yes"
+    ],
+    "REDLIGHT": [
+      "No",
+      "Yes"
+    ],
+    "MOTORCYCLE": [
+      "No",
+      "Yes"
+    ],
+    "SPEEDING": [
+      "No",
+      "Yes"
+    ],
+    "CYCLIST": [
+      "No",
+      "Yes"
+    ],
+    "PASSENGER": [
+      "No",
+      "Yes"
+    ],
+    "PEDESTRIAN": [
+      "No",
+      "Yes"
+    ],
+    "AG_DRIV": [
+      "No",
+      "Yes"
+    ],
+    "AUTOMOBILE": [
+      "No",
+      "Yes"
+    ],
+    "ROAD_CLASS": [
+      "Collector",
+      "Expressway",
+      "Expressway Ramp",
+      "Laneway",
+      "Local",
+      "Major Arterial",
+      "Major Shoreline",
+      "Minor Arterial",
+      "Other",
+      "Pending"
+    ],
+    "DISTRICT": [
+      "Etobicoke York",
+      "North York",
+      "Scarborough",
+      "Toronto and East York"
+    ],
+    "TRAFFCTL": [
+      "No Control",
+      "Pedestrian Crossover",
+      "School Guard",
+      "Stop Sign",
+      "Streetcar (Stop for)",
+      "Traffic Controller",
+      "Traffic Gate",
+      "Traffic Signal",
+      "Yield Sign"
+    ],
+    "VISIBILITY": [
+      "Clear",
+      "Drifting Snow",
+      "Fog, Mist, Smoke, Dust",
+      "Freezing Rain",
+      "Other",
+      "Rain",
+      "Snow",
+      "Strong wind"
+    ],
+    "RDSFCOND": [
+      "Dry",
+      "Ice",
+      "Loose Sand or Gravel",
+      "Loose Snow",
+      "Other",
+      "Packed Snow",
+      "Slush",
+      "Spilled liquid",
+      "Wet"
+    ],
+    "LIGHT": [
+      "Dark",
+      "Dark, artificial",
+      "Dawn",
+      "Dawn, artificial",
+      "Daylight",
+      "Daylight, artificial",
+      "Dusk",
+      "Dusk, artificial",
+      "Other"
+    ],
+    "INITDIR": [
+      "East",
+      "North",
+      "South",
+      "Unknown",
+      "West"
+    ],
+    "ACCLOC": [
+      "At Intersection",
+      "At/Near Private Drive",
+      "Intersection Related",
+      "Laneway",
+      "Non Intersection",
+      "Other",
+      "Overpass or Bridge",
+      "Private Driveway",
+      "Trail",
+      "Underpass or Tunnel"
+    ],
+    "DIVISION": [
+      "D11",
+      "D12",
+      "D13",
+      "D14",
+      "D22",
+      "D23",
+      "D31",
+      "D32",
+      "D33",
+      "D41",
+      "D42",
+      "D43",
+      "D51",
+      "D52",
+      "D53",
+      "D55",
+      "NSA"
+    ]
+  },
+  "numeric_ranges": {
+    "LATITUDE": [
+      43.589678,
+      43.855445
+    ],
+    "LONGITUDE": [
+      -79.63839,
+      -79.122974
+    ],
+    "YEAR": [
+      2006.0,
+      2023.0
+    ],
+    "MONTH": [
+      1.0,
+      12.0
+    ],
+    "DAY_OF_WEEK": [
+      0.0,
+      6.0
+    ],
+    "HOUR": [
+      0.0,
+      23.0
+    ]
+  },
+  "model": {
+    "type": "SVC",
+    "kernel": "linear",
+    "C": 10.0
+  },
+  "feature_count": 27,
+  "risk_score_note": "SVM decision_function score; not a calibrated probability."
+}
