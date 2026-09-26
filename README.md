@@ -1,6 +1,6 @@
 # Toronto KSI Fatal Collision Prediction
 
-A machine learning prototype that uses historical Toronto KSI collision records to classify a recorded collision as Fatal or Non-Fatal Injury.
+An end-to-end machine learning prototype for classifying fatal and non-fatal injury outcomes using historical Toronto KSI collision data.
 
 This academic project was completed collaboratively by a four-member team for COMP 247, Supervised Learning, at Centennial College.
 
